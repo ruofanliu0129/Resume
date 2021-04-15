@@ -10,7 +10,7 @@ redirect_from:
 
 I am an undergraduate student at the [School of Electronic Information and Electrical Engineering](http://www.seiee.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).
 
-I major in Computer Science and Technology and my research interests include Deep Learning, Computer Vision, Human-Computer Interaction, and Mixed Reality Techniques. Now I am studying in [BCMI Laboratory](http://bcmi.sjtu.edu.cn/), under Prof.[Bao-Liang Lu](http://bcmi.sjtu.edu.cn/~blu/)'s guidance, doing research on the optimization of domain generalization in transfer learning, which is the topic of my bachelor thesis.
+I major in Computer Science and Technology and my research interests include Deep Learning, Computer Vision, Human-Computer Interaction, and Mixed Reality Techniques. Now I am studying in [BCMI Laboratory](http://bcmi.sjtu.edu.cn/), under Prof. [Bao-Liang Lu](http://bcmi.sjtu.edu.cn/~blu/)'s guidance, doing research on the optimization of domain generalization in transfer learning, which is the topic of my bachelor thesis.
 
 My Research Direction
 ======
