@@ -18,4 +18,4 @@ Deep Learning, Computer Vision, Human-Computer Interaction, Mixed Reality Techni
 
 For more info
 ------
-More info about me can be found in my CV. And please feel free to contact me in English or Chinese.
+More info about me can be found in my [CV](https://ruofanliu0129.github.io/Resume/cv/). And please feel free to contact me in English or Chinese.
