@@ -13,8 +13,8 @@ Education
 ======
 * B.E. in Computer Science and Technology, Shanghai Jiao Tong University, 2021 (expected)
   * GPA：85.93/100
-  * Main course ： Virtual Reality and Augmented Display(91), Human Interface Technology(97), Computer Graphics(87), Data Visualization and Visual Analytics(92), Comprehensive practice of programming(89), Digital Image Processing(86), Cryptography and Information Security(85), Circuit System Synthesis(99), Operating System(85)
-
+  * Main course ： Virtual Reality and Augmented Display (91), Human Interface Technology (97), Computer Graphics (87), Data Visualization and Visual Analytics (92), Comprehensive practice of programming (89), Digital Image Processing (86),
+  
 Work experience
 ======
 * Summer 2015: Research Assistant
