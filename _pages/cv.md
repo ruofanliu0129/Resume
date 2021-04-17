@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Computer Science and Technology, Shanghai Jiao Tong University, 2021 (expected)
+  * GPA：85.93/100
+  * Main course ： Virtual Reality and Augmented Display(91), Human Interface Technology(97), Computer Graphics(87), Data Visualization and Visual Analytics(92), Comprehensive practice of programming(89), Digital Image Processing(86), Cryptography and Information Security(85), Circuit System Synthesis(99), Operating System(85)
 
 Work experience
 ======
