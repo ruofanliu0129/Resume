@@ -9,14 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-### E-mail
-* ruofanliu0129@gmail.com
-* shizuku@sjtu.edu.cn
+## E-mail
+* ruofanliu0129@gmail.com / shizuku@sjtu.edu.cn
  
-### Telephone
+## Telephone
 * (+86) 133-4743-1575
 
-### Address
+## Address
 * Department of Computer Science and Engineering
 * Shanghai Jiaotong University 
 * SEIEE-3
