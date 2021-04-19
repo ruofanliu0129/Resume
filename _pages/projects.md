@@ -15,7 +15,7 @@ redirect_from:
  
 ## Research on Cross-subject Emotion Recognition Model Based on Domain Generalization
 * Introduction: [PDF](https://ruofanliu0129.github.io/Resume/files/DomainGeneralization.pdf)
-* In order to solve the accuracy loss caused by the individual differences of physiological signals, transfer learning has become a popular research direction in the cross-subject brain-computer interface system in recent years. Domain generalization is an algorithm in the direction of transfer learning in deep learning. This research is based on previous works, and is trying to optimize Domain Adversarial Neural Network (DANN) and Domain Residual Network (DResNet).
+*  order to solve the accuracy loss caused by the individual differences of physiological signals, transfer learning has become a popular research direction in the cross-subject brain-computer interface system in recent years. Domain generalization is an algorithm in the direction of transfer learning in deep learning. This research is based on previous works, and is trying to optimize Domain Adversarial Neural Network (DANN) and Domain Residual Network (DResNet).
 
 Intern experience
 ======
