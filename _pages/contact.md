@@ -17,7 +17,7 @@ redirect_from:
 
 ## Address
 * Department of Computer Science and Engineering
-* Shanghai Jiaotong University 
+* Shanghai Jiao Tong University 
 * SEIEE-3
 * 800 Dongchuan Road, 200240
 * Shanghai, P.R. China
