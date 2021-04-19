@@ -29,3 +29,7 @@ redirect_from:
 ## Predictive Classification of Medical Images of Diabetic Retinopathy
 * Introduction: [PDF](https://ruofanliu0129.github.io/Resume/files/DiabeticRetinopathyDetection.pdf) (Chinese Version)
 * To predict the extent of diabetic retinopathy, this project is mainly to learn some knowledge about neural networks first, and then reproduce previous people’s work. In detail, I established a neural network model based on the Keras convolutional neural network, and implemented the classification of diabetic retina 0-4 lesions through training and learning, then I built a neural network to realize the location and segmentation of the pathological area.
+
+
+## Campus Bus Query APP - IBUS
+* This project is aimed to provide a more convenient platform for students who need to take the school bus, avoiding students' wasting time in waiting in line, and ensuring teachers' interests under the condition of the original priority.
