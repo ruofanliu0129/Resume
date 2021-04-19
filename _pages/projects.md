@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ## Virtual Sand Table Display Based on Somatosensory Interaction
 * Introduction: [PDF](https://ruofanliu0129.github.io/Resume/files/VirtualSandTable.pdf)
 * We propose to creat a virtual sandbox and then perform a series of operations on it through somatosensory interaction, including the 2 change of perspective, multi-directional observation, and the movement of war chess units. The whole project is divided into three parts, creation of sandbox model, rendering of the virtual scene, and definition of somatosensory interaction.
