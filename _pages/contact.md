@@ -9,23 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-## Virtual Sand Table Display Based on Somatosensory Interaction
-* Introduction: [PDF](https://ruofanliu0129.github.io/Resume/files/VirtualSandTable.pdf) (English Version)
-* We propose to creat a virtual sandbox and then perform a series of operations on it through somatosensory interaction, including the 2 change of perspective, multi-directional observation, and the movement of war chess units. The whole project is divided into three parts, creation of sandbox model, rendering of the virtual scene, and definition of somatosensory interaction.
+### E-mail
+* ruofanliu0129@gmail.com
+* shizuku@sjtu.edu.cn
  
-## Research on Cross-subject Emotion Recognition Model Based on Domain Generalization
-* Report: [PDF](https://ruofanliu0129.github.io/Resume/files/DomainGeneralization.pdf) (to be updated recently)
-* In order to solve the accuracy loss caused by the individual differences of physiological signals, transfer learning has become a popular research direction in the cross-subject brain-computer interface system in recent years. Domain generalization is an algorithm in the direction of transfer learning in deep learning. This research is based on previous works, and is trying to optimize Domain Adversarial Neural Network (DANN) and Domain Residual Network (DResNet).
+### Telephone
+* (+86) 133-4743-1575
 
-## OCT Medical Images Enhancement
-* Introduction: [PDF](https://ruofanliu0129.github.io/Resume/files/OCT.pdf) (Chinese Version)
-* We propose to use average hashing and perceptual hashing algorithms, and image segmentation technology to preprocess the image pairing of the OCT medical image set. Then we implement a deep learning network model suitable for OCT medical image denoising based on convolutional neural network (CNN) and some other networks. Our innovation lies in the different types of images in the same data set, which is to perform supervised denoising for data sets with good pairing, and unsupervised denoising for data sets with insufficient pairing. 
-  
-## Intelligent Car Control Based on Android Platform
-* Report: [PDF](https://ruofanliu0129.github.io/Resume/files/IntelligentCarControl.pdf) (Chinese Version)
-* Video: [MP4](https://ruofanliu0129.github.io/Resume/files/IntelligentCarControl.mp4)
-* I implemented the compilation and programming of the single-chip program based on the Energia platform. Then I used Android Studio to develop a mobile phone APP, implementing intelligent car control driving based on Bluetooth communication. Finally, I implemented the functions of video return, key control, gesture recognition, gravity sensor, voice control of intelligent car driving.
-
-## Predictive Classification of Medical Images of Diabetic Retinopathy
-* Introduction: [PDF](https://ruofanliu0129.github.io/Resume/files/DiabeticRetinopathyDetection.pdf) (Chinese Version)
-* To predict the extent of diabetic retinopathy, this project is mainly to learn some knowledge about neural networks first, and then reproduce previous people’s work. In detail, I established a neural network model based on the Keras convolutional neural network, and implemented the classification of diabetic retina 0-4 lesions through training and learning, then I built a neural network to realize the location and segmentation of the pathological area.
+### Address
+* Department of Computer Science and Engineering
+* Shanghai Jiaotong University 
+* SEIEE-3
+* 800 Dongchuan Road, 200240
+* Shanghai, P.R. China
