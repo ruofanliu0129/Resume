@@ -29,13 +29,8 @@ Intern experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
+* Python, C++, C#
+ 
 Honors & Awards
 ======
 * CUMCM Second Prize (2018)
@@ -44,4 +39,4 @@ Honors & Awards
 Service and leadership
 ======
 * Minister of Culture, Liaison Center, Student Union of Shanghai Jiaotong University (03/2018-09/2019)
-* * Undertake school-level activities such as Starry Week Appraisal, Spark Class Chairperson Clash Forum, and Exchange Visits with other universities.
+  * Undertake school-level activities such as Starry Week Appraisal, Spark Class Chairperson Clash Forum, and Exchange Visits with other universities.
