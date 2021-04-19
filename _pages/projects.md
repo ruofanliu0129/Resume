@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Virtual sand table display based on somatosensory interaction
 ======
 * B.E. in Computer Science and Technology, Shanghai Jiao Tong University, 2021 (expected)
   * GPA：85.93/100
