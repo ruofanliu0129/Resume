@@ -10,10 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Virtual Sand Table Display Based on Somatosensory Interaction
-* Intro: [pdf](https://ruofanliu0129.github.io/Resume/files/VirtualSandTable.pdf)
-  * GPA：85.93/100
-  * Supervisor: Prof. [Baoliang Lu](http://bcmi.sjtu.edu.cn/~blu/)
-  * Main course ： Virtual Reality and Augmented Display (91), Human Interface Technology (97), Computer Graphics (87), Data Visualization and Visual Analytics (92), Comprehensive practice of programming (89), Digital Image Processing (86)
+* Introduction: [PDF](https://ruofanliu0129.github.io/Resume/files/VirtualSandTable.pdf)
+* We propose to creat a virtual sandbox and then perform a series of operations on it through somatosensory interaction, including the 2 change of perspective, multi-directional observation, and the movement of war chess units. The whole project is divided into three parts, creation of sandbox model, rendering of the virtual scene, and definition of somatosensory interaction.
   
 Intern experience
 ======
