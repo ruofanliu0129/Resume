@@ -20,7 +20,7 @@ Work experience
 * Spring 2020: Researcher Intern
   * SJTU BASICS Laboratory, Shanghai Jiao Tong University
   * Duties included: Establishing a visualization system for analysis of COVID-19.
-  * Supervisor: Prof.[Xiaoju Dong](http://basics.sjtu.edu.cn/~xiaoju/)
+  * Supervisor: Prof. [Xiaoju Dong](http://basics.sjtu.edu.cn/~xiaoju/)
 
 * Summer 2020: Software Development Engineer
   * INESA Intelligent Tech Inc.
