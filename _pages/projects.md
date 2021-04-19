@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Virtual Sand Table Display Based on Somatosensory Interaction
-* Intro: [pdf](https://github.com/ruofanliu0129/Resume/files/VirtualSandTable.pdf)
+* Intro: [pdf](https://ruofanliu0129.github.io/Resume/files/VirtualSandTable.pdf)
   * GPA：85.93/100
   * Supervisor: Prof. [Baoliang Lu](http://bcmi.sjtu.edu.cn/~blu/)
   * Main course ： Virtual Reality and Augmented Display (91), Human Interface Technology (97), Computer Graphics (87), Data Visualization and Visual Analytics (92), Comprehensive practice of programming (89), Digital Image Processing (86)
