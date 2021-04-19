@@ -18,12 +18,12 @@ Education
 Intern experience
 ======
 * Spring 2020: Researcher Intern
-  * SJTU BASICS Laboratory, Shanghai Jiao Tong University
+  * [SJTU BASICS LAB](https://basics.sjtu.edu.cn/), Shanghai Jiao Tong University
   * Duties included: Establishing a visualization system for analysis of COVID-19.
   * Supervisor: Prof. [Xiaoju Dong](http://basics.sjtu.edu.cn/~xiaoju/)
 
 * Summer 2020: Software Development Engineer
-  * INESA Intelligent Tech Inc.
+  * [INESA Intelligent Tech Inc.](https://www.inesa-it.com/)
   * Duties included: Implementing the back end of the AIOT system. Project Manager.
   * More Info: [https://github.com/CloudWeaver-AIoT-Platform](https://github.com/CloudWeaver-AIoT-Platform)
   
