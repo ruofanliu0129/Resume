@@ -17,16 +17,15 @@ Education
   
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020: Researcher Intern
+  * SJTU BASICS Laboratory, Shanghai Jiao Tong University
+  * Duties included: Establishing a visualization system for analysis of COVID-19.
+  * Supervisor: Prof.[Xiaoju Dong](http://basics.sjtu.edu.cn/~xiaoju/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  * https://github.com/CloudWeaver-AIoT-Platform
+* Summer 2020: Software Development Engineer
+  * INESA Intelligent Tech Inc.
+  * Duties included: Implementing the back end of the AIOT system. Project Manager.
+  * More Info: [https://github.com/CloudWeaver-AIoT-Platform](https://github.com/CloudWeaver-AIoT-Platform)
   
 Skills
 ======
