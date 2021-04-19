@@ -15,7 +15,7 @@ Education
   * GPA：85.93/100, supervised by Prof. [Baoliang Lu](http://bcmi.sjtu.edu.cn/~blu/)
   * Main course ： Virtual Reality and Augmented Display (91), Human Interface Technology (97), Computer Graphics (87), Data Visualization and Visual Analytics (92), Comprehensive practice of programming (89), Digital Image Processing (86)
   
-Work experience
+Intern experience
 ======
 * Spring 2020: Researcher Intern
   * SJTU BASICS Laboratory, Shanghai Jiao Tong University
@@ -35,25 +35,13 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Honors & Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* CUMCM Second Prize (2018)
+* Shanghai Jiao Tong University School-level Scholarship (2020)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Minister of Culture, Liaison Center, Student Union of Shanghai Jiaotong University (03/2018-09/2019)
+* * Undertake school-level activities such as Starry Week Appraisal, Spark Class Chairperson Clash Forum, and Exchange Visits with other universities.
