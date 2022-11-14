@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Science and Technology, Shanghai Jiao Tong University, 2021 (expected)
+* M.E. in Computer Science, School of Computing, Tokyo Institute of Technology, 2023 (expected)
+  * GPA：3.92/4.00
+  * Supervisor: Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike)
+* B.E. in Computer Science and Technology, Shanghai Jiao Tong University, 2021
   * GPA：85.93/100
   * Supervisor: Prof. [Baoliang Lu](http://bcmi.sjtu.edu.cn/~blu/)
-  * Main course ： Virtual Reality and Augmented Display (91), Human Interface Technology (97), Computer Graphics (87), Data Visualization and Visual Analytics (92), Comprehensive practice of programming (89), Digital Image Processing (86)
   
 Intern experience
 ======
