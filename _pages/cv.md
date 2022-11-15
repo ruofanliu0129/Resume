@@ -14,12 +14,18 @@ Education
 * M.E. in Computer Science, School of Computing, Tokyo Institute of Technology, 2023 (expected)
   * GPA：3.92/4.00
   * Supervisor: Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike)
+  
 * B.E. in Computer Science and Technology, Shanghai Jiao Tong University, 2021
   * GPA：85.93/100
   * Supervisor: Prof. [Baoliang Lu](http://bcmi.sjtu.edu.cn/~blu/)
   
 Intern experience
 ======
+* Spring 2022: Research Assistant
+  * [Musical Dynaformics LAB](https://medlab.mystrikingly.com/), Sony Computer Science Laboratories
+  * Duties included: Establishing a piano hand discrepancies visualization system to help pianists acquire piano performing skills.
+  * Supervisor: Prof. [Shinichi Furuya](https://www.neuropiano.net/english)
+  
 * Spring 2020: Researcher Intern
   * [SJTU BASICS LAB](https://basics.sjtu.edu.cn/), Shanghai Jiao Tong University
   * Duties included: Establishing a visualization system for analysis of COVID-19.
@@ -32,7 +38,7 @@ Intern experience
   
 Skills
 ======
-* Python, C++, C#
+* Python, C#
  
 Honors & Awards
 ======
