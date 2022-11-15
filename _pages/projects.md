@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+## Synchronized Hand Difference Visualization for Piano Learning
+* Poster: [PDF](https://dl.acm.org/doi/pdf/10.1145/3532719.3543196) (English Version)
+* When learning a dexterous skill such as playing the piano, people commonly watch videos of a teacher. However, this conventional way has some downsides such as limited information to be retrieved and less intuitive instructions. We propose a virtual training system by visualizing differences between hands to provide intuitive feedback for skill acquisition. After synchronizing the data, two visual cues are proposed including a hand-overlay manner and a two-keyboards visualization. A pilot study confirm the superiority of the proposed methods over conventional video-viewing.
 
 ## Virtual Sand Table Display Based on Somatosensory Interaction
 * Introduction: [PDF](https://ruofanliu0129.github.io/Resume/files/VirtualSandTable.pdf) (English Version)
