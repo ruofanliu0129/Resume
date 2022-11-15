@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ## E-mail
-* ruofanliu0129@gmail.com / shizuku@sjtu.edu.cn
+* liu.r.ac@m.titech.ac.jp / ruofanliu0129@gmail.com
  
 ## Telephone
-* (+86) 133-4743-1575
+* (+81) 070-2213-0998
 
 ## Address
-* Department of Computer Science and Engineering
-* Shanghai Jiao Tong University 
-* SEIEE-3
-* 800 Dongchuan Road, 200240
-* Shanghai, P.R. China
+* School of Computing
+* Tokyo Institute of Technology 
+* W8 - E401, Koike Lab
+* Oookayama 2-12-1, Meguro District
+* Tokyo, Japan
