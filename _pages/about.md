@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at the [School of Computing](https://educ.titech.ac.jp/cs/eng/), [Tokyo Institute of Technology (Tokyo Tech)](https://www.titech.ac.jp/english).
+I am a Ph.D. student (2023.10~) at the [School of Computing](https://educ.titech.ac.jp/cs/eng/), [Tokyo Institute of Technology (Tokyo Tech)](https://www.titech.ac.jp/english).
+I am also a research assistant at [Sony CSL](https://www.sonycsl.co.jp/). 
 
-I major in Computer Science and Technology and my research interests include Human-Computer Interaction, Augmented Human, Mixed Reality Techniques and Computer Vision. Now I am studying in [Koike Laboratory](https://www.vogue.cs.titech.ac.jp/top), under Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike)'s guidance, and doing research on the Augmented Human.
+I obtained my M.Sc. in Computer Science at Tokyo Tech with Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike) and obtained my B.Sc. in Computer Science and Technology at Shanghai Jiao Tong University with Prof. [Baoliang Lu](https://bcmi.sjtu.edu.cn/~blu/). 
+
+My research interests include Human-Computer Interaction, Augmented Human, Mixed Reality Techniques, and Computer Vision. Now I am studying in [Koike Laboratory](https://www.vogue.cs.titech.ac.jp/top), under Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike) and Prof.'s guidance, and doing research on the Augmented Human.
 
 Research Interests
 ------
