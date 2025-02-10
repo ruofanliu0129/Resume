@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+[PianoKeystroke-EMG: Piano Hand Muscle Electromyography Estimation from Easily Accessible Piano Keystroke](https://dl.acm.org/doi/10.1145/3681756.3697878). In SIGGRAPH Asia 2024 Posters (SA '24). Association for Computing Machinery, New York, NY, USA, Article 6, 1–2.
+
+[SkiTech: An Alpine Skiing and Snowboarding Dataset of 3D Body Pose, Sole Pressure, and Electromyography](https://dl.acm.org/doi/10.1145/3606038.3616151). In Proceedings of the 6th International Workshop on Multimedia Content Analysis in Sports (MMSports '23). Association for Computing Machinery, New York, NY, USA, 3–8.
+
+[PianoSyncAR: Enhancing Piano Learning through Visualizing Synchronized Hand Pose Discrepancies in Augmented Reality](https://doi.org/10.1109/ISMAR59233.2023.00101). 2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Sydney, Australia, 2023, pp. 859-868.
 
 [PianoHandSync: An Alignment-based Hand Pose Discrepancy Visualization System for Piano Learning](https://dl.acm.org/doi/10.1145/3544549.3585705). In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (CHI EA '23). Association for Computing Machinery, New York, NY, USA, Article 228, 1–7.
 
