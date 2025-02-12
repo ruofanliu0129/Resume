@@ -11,19 +11,23 @@ redirect_from:
 
 Education
 ======
-* M.E. in Computer Science, School of Computing, Tokyo Institute of Technology, 2023 (expected)
+* Ph.D. in Computer Science, School of Computing, Institute of Science Tokyo (formerly Tokyo Institute of Technology), 2026 (expected)
+  * GPA：3.28/4.00
+  * Supervisor: Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike)
+  
+* M.E. in Computer Science, School of Computing, Tokyo Institute of Technology, 2023
   * GPA：3.92/4.00
   * Supervisor: Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike)
   
-* B.E. in Computer Science and Technology, Shanghai Jiao Tong University, 2021
+* B.E. in Computer Science and Technology, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, 2021
   * GPA：85.93/100
   * Supervisor: Prof. [Baoliang Lu](http://bcmi.sjtu.edu.cn/~blu/)
   
 Intern experience
 ======
-* Spring 2022: Research Assistant
+* Spring 2022 - now: Research Assistant
   * [Musical Dynaformics LAB](https://medlab.mystrikingly.com/), Sony Computer Science Laboratories
-  * Duties included: Establishing a piano hand discrepancies visualization system to help pianists acquire piano performing skills.
+  * Duties included: Exploring multimodal learning methods to assist piano skill acquisition.
   * Supervisor: Prof. [Shinichi Furuya](https://www.neuropiano.net/english)
   
 * Spring 2020: Researcher Intern
@@ -34,7 +38,6 @@ Intern experience
 * Summer 2020: Software Development Engineer
   * [INESA Intelligent Tech Inc.](https://www.inesa-it.com/)
   * Duties included: Implementing the back end of the AIOT system. Project Manager.
-  * More Info: [https://github.com/CloudWeaver-AIoT-Platform](https://github.com/CloudWeaver-AIoT-Platform)
   
 Skills
 ======
