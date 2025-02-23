@@ -33,7 +33,7 @@ Intern experience
 * 2022.11 - 2025.02: Researcher Intern
   * [Japan Research Center](https://www.huawei.com/jp/), Huawei Japan
   * Research on digital human and AI.
-  * Supervisor: Prof. [Bo Zheng](http://www.bozheng-lab.com/h)
+  * Supervisor: Prof. [Bo Zheng](http://www.bozheng-lab.com/)
     
 * 2020.09 - 2021.06: Researcher Intern
   * [SJTU BCMI LAB](https://bcmi.sjtu.edu.cn/), Shanghai Jiao Tong University
