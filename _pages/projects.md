@@ -27,12 +27,12 @@ redirect_from:
 ## Intelligent Car Control Based on Android Platform
 * Report: [PDF](https://ruofanliu0129.github.io/Resume/files/IntelligentCarControl.pdf) (Chinese Version)
 * Video: [MP4](https://ruofanliu0129.github.io/Resume/files/IntelligentCarControl.mp4)
-* I implemented the compilation and programming of the single-chip program based on the Energia platform. Then I used Android Studio to develop a mobile phone APP, implementing intelligent car control driving based on Bluetooth communication. Finally, I implemented the functions of video return, key control, gesture recognition, gravity sensor, voice control of intelligent car driving.
+* I implemented the compilation and programming of the single-chip program based on the Energia platform. Then I used Android Studio to develop a mobile phone APP, implementing intelligent car control driving based on Bluetooth communication. Finally, I implemented the functions of video return, key control, gesture recognition, gravity sensor, and voice control of intelligent car driving.
 
 ## Predictive Classification of Medical Images of Diabetic Retinopathy
 * Introduction: [PDF](https://ruofanliu0129.github.io/Resume/files/DiabeticRetinopathyDetection.pdf) (Chinese Version)
-* To predict the extent of diabetic retinopathy, this project is mainly to learn some knowledge about neural networks first, and then reproduce previous people’s work. In detail, I established a neural network model based on the Keras convolutional neural network, and implemented the classification of diabetic retina 0-4 lesions through training and learning, then I built a neural network to realize the location and segmentation of the pathological area.
+* To predict the extent of diabetic retinopathy, this project is mainly to learn about neural networks first, then reproduce previous people’s work. In detail, I established a neural network model based on the Keras CNN, and implemented the classification of diabetic retina 0-4 lesions through training and learning, then I built a neural network to realize the location and segmentation of the pathological area.
 
 
 ## Campus Bus Query APP - IBUS
-* This project is aimed to provide a more convenient platform for students who need to take the school bus, avoiding students' wasting time in waiting in line, and ensuring teachers' interests under the condition of the original priority.
+* This project aims to provide a more convenient platform for students who need to take the school bus, avoiding wasting time waiting in line and ensuring teachers' interests under the condition of the original priority.
