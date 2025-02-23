@@ -17,7 +17,7 @@ redirect_from:
 
 ## Address
 * School of Computing
-* Tokyo Institute of Technology 
+* Institute of Science Tokyo (formerly Tokyo Institute of Technology)
 * W8 - E401, Koike Lab
 * Oookayama 2-12-1, Meguro District
 * Tokyo, Japan
