@@ -25,30 +25,43 @@ Education
   
 Intern experience
 ======
-* Spring 2022 - now: Research Assistant
+* 2022.03 - now: Research Assistant
   * [Musical Dynaformics LAB](https://medlab.mystrikingly.com/), Sony Computer Science Laboratories
-  * Duties included: Exploring multimodal learning methods to assist piano skill acquisition.
+  * Research on multimodal learning and musical skill acquisition.
   * Supervisor: Prof. [Shinichi Furuya](https://www.neuropiano.net/english)
-  
-* Spring 2020: Researcher Intern
-  * [SJTU BASICS LAB](https://basics.sjtu.edu.cn/), Shanghai Jiao Tong University
-  * Duties included: Establishing a visualization system for analysis of COVID-19.
-  * Supervisor: Prof. [Xiaoju Dong](http://basics.sjtu.edu.cn/~xiaoju/)
 
-* Summer 2020: Software Development Engineer
+* 2022.11 - 2025.02: Researcher Intern
+  * [Japan Research Center](https://www.huawei.com/jp/), Huawei Japan
+  * Research on digital human and AI.
+  * Supervisor: Prof. [Bo Zheng](http://www.bozheng-lab.com/h)
+    
+* 2020.09 - 2021.06: Researcher Intern
+  * [SJTU BCMI LAB](https://bcmi.sjtu.edu.cn/), Shanghai Jiao Tong University
+  * Research on cross-subject emotion recognition and brain-computer interface.
+  * Supervisor: Prof. [Baoliang Lu](https://bcmi.sjtu.edu.cn/~lubaoliang/)
+
+* 2020.07 - 2020.08: Software Development Engineer
   * [INESA Intelligent Tech Inc.](https://www.inesa-it.com/)
-  * Duties included: Implementing the back end of the AIOT system. Project Manager.
+  * Implementation of the intelligent AIOT system.
   
 Skills
 ======
-* Python, C#
+* Python, Unity, C#, R
  
 Honors & Awards
 ======
-* CUMCM Second Prize (2018)
-* Shanghai Jiao Tong University School-level Scholarship (2020)
+* JST SPRING Fellowship, Japan Science and Technology Agency 2024.04
+• Tokyo Tech Advanced Human Fellowship, Tokyo Institute of Technology 2023.10
+• AIP Network Director Award, 6th JST CREST AIP Challenge Program 2022.07
+• Research Assistant Fellowship, Tokyo Institute of Technology 2022.06
+• Scholarships for International Students in Japan, JASSO 2021.10
+• Academic Scholarship, Shanghai Jiao Tong University 2020.09
+• Second Prize, China Society for Industrial and Applied Mathematics 2019.09
   
 Service and leadership
 ======
-* Minister of Culture, Liaison Center, Student Union of Shanghai Jiaotong University (03/2018-09/2019)
+* Reviewers
+  * Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+  * CHI Conference on Human Factors in Computing Systems (CHI)
+* Minister of Culture, Liaison Center, Student Union of Shanghai Jiaotong University
   * Undertake school-level activities such as Starry Week Appraisal, Spark Class Chairperson Clash Forum, and Exchange Visits with other universities.
