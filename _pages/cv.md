@@ -37,7 +37,7 @@ Intern experience
   
 Skills
 ======
-* Python, Unity, C#, R
+* Python, Unity, R
  
 Honors & Awards
 ======
