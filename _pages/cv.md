@@ -29,20 +29,11 @@ Intern experience
   * [Musical Dynaformics LAB](https://medlab.mystrikingly.com/), Sony Computer Science Laboratories
   * Research on multimodal learning and musical skill acquisition.
   * Supervisor: Prof. [Shinichi Furuya](https://www.neuropiano.net/english)
-
-* 2022.11 - 2025.02: Researcher Intern
-  * [Japan Research Center](https://www.huawei.com/jp/), Huawei Japan
-  * Research on digital human and AI.
-  * Supervisor: Prof. [Bo Zheng](http://www.bozheng-lab.com/)
     
 * 2020.09 - 2021.06: Researcher Intern
   * [SJTU BCMI LAB](https://bcmi.sjtu.edu.cn/), Shanghai Jiao Tong University
   * Research on cross-subject emotion recognition and brain-computer interface.
   * Supervisor: Prof. [Baoliang Lu](https://bcmi.sjtu.edu.cn/~lubaoliang/)
-
-* 2020.07 - 2020.08: Software Development Engineer
-  * [INESA Intelligent Tech Inc.](https://www.inesa-it.com/)
-  * Implementation of the intelligent AIOT system.
   
 Skills
 ======
