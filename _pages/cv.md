@@ -42,12 +42,12 @@ Skills
 Honors & Awards
 ======
 * JST SPRING Fellowship, Japan Science and Technology Agency 2024.04
-• Tokyo Tech Advanced Human Fellowship, Tokyo Institute of Technology 2023.10
-• AIP Network Director Award, 6th JST CREST AIP Challenge Program 2022.07
-• Research Assistant Fellowship, Tokyo Institute of Technology 2022.06
-• Scholarships for International Students in Japan, JASSO 2021.10
-• Academic Scholarship, Shanghai Jiao Tong University 2020.09
-• Second Prize, China Society for Industrial and Applied Mathematics 2019.09
+* Tokyo Tech Advanced Human Fellowship, Tokyo Institute of Technology 2023.10
+* AIP Network Director Award, 6th JST CREST AIP Challenge Program 2022.07
+* Research Assistant Fellowship, Tokyo Institute of Technology 2022.06
+* Scholarships for International Students in Japan, JASSO 2021.10
+* Academic Scholarship, Shanghai Jiao Tong University 2020.09
+* Second Prize, China Society for Industrial and Applied Mathematics 2019.09
   
 Service and leadership
 ======
