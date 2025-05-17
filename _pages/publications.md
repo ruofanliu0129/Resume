@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+[PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles](https://doi.org/10.1145/3706598.3713465). In 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). Association for Computing Machinery, New York, NY, USA, Article 364, 1–16.
+
 [PianoKeystroke-EMG: Piano Hand Muscle Electromyography Estimation from Easily Accessible Piano Keystroke](https://dl.acm.org/doi/10.1145/3681756.3697878). In SIGGRAPH Asia 2024 Posters (SA '24). Association for Computing Machinery, New York, NY, USA, Article 6, 1–2.
 
 [SkiTech: An Alpine Skiing and Snowboarding Dataset of 3D Body Pose, Sole Pressure, and Electromyography](https://dl.acm.org/doi/10.1145/3606038.3616151). In Proceedings of the 6th International Workshop on Multimedia Content Analysis in Sports (MMSports '23). Association for Computing Machinery, New York, NY, USA, 3–8.
