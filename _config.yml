@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ruofan Liu"
-  avatar           : "profile.png"
+  avatar           : "证件照2_2.jpg"
   bio              : "Ph.D. candidate in Computer Science, Institute of Science Tokyo"
   location         : "Tokyo, Japan"
   employer         :
@@ -99,7 +99,7 @@ author:
   github           : "ruofanliu0129"
   google_plus      :
   keybase          :
-  instagram        : "shizuku19990129"
+  instagram        : #"shizuku19990129"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/ruofan-liu-232755249/"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "shizuku73064465"
+  twitter          : #"shizuku73064465"
   vine             :
   weibo            :
   xing             :
