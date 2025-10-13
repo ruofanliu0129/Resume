@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student (2023.10~) at the [School of Computing](https://educ.titech.ac.jp/cs/eng/), [Institute of Science Tokyo (Science Tokyo)](https://www.isct.ac.jp/en), supervised by Prof. [Hideki Koike]([https://www.vogue.cs.titech.ac.jp/koike](https://scholar.google.com/citations?hl=en&user=Ih8cJXQAAAAJ)).
+I am a Ph.D. student (2023.10~) at the [School of Computing](https://educ.titech.ac.jp/cs/eng/), [Institute of Science Tokyo (Science Tokyo)](https://www.isct.ac.jp/en), supervised by Prof. [Hideki Koike](https://scholar.google.com/citations?hl=en&user=Ih8cJXQAAAAJ).
 Currently, I am a visiting student researcher at [Stanford Computational Imaging Lab](https://www.computationalimaging.org/), [Stanford University](https://www.stanford.edu/), supervised by Prof. [Gordon Wetzstein](https://scholar.google.com/citations?user=VOf45S0AAAAJ&hl=en) and a research assistant at [Sony CSL](https://www.sonycsl.co.jp/), supervised by Prof. [Shinichi Furuya](https://scholar.google.com/citations?hl=en&user=IphDyJcAAAAJ).
 
 I obtained my M.E. in Computer Science at Tokyo Tech with Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike) and obtained my B.E. in Computer Science and Technology at Shanghai Jiao Tong University with Prof. [Baoliang Lu](https://bcmi.sjtu.edu.cn/~blu/). 
