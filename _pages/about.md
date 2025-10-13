@@ -13,11 +13,11 @@ Currently, I am a visiting student researcher at [Stanford Computational Imaging
 
 I obtained my M.E. in Computer Science at Tokyo Tech with Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike) and obtained my B.E. in Computer Science and Technology at Shanghai Jiao Tong University with Prof. [Baoliang Lu](https://bcmi.sjtu.edu.cn/~blu/). 
 
-My research interests include Musical Dynaformics, Interaction Design, Augmented Human, and Mixed Reality Techniques.
+My research interests include Video Generation, Multimodal Learning, Mixed Reality, and Human-Computer Interaction.
 
 Research Interests
 ------
-Human-Computer Interaction, Augmented Human, Mixed Reality Techniques, Musical Dynaformics
+Video Generation, Multimodal Learning, Mixed Reality, Human-Computer Interaction, Augmented Human
 
 For more info
 ------
