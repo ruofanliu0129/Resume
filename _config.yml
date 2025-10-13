@@ -10,10 +10,7 @@ locale                   : "en-US"
 title                    : "Ruofan Liu"
 title_separator          : "-"
 name                     : &name "Ruofan Liu"
-description              : |
-Ph.D. student,
-Computer Science,
-Institute of Science Tokyo
+description              : &description "Ph.D. candidate in Computer Science, Institute of Science Tokyo"
 url                      : https://ruofanliu0129.github.io/Resume # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ruofanliu0129/Resume"
