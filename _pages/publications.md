@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 [From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography](https://neurips.cc/virtual/2025/poster/116792). In Advances in Neural Information Processing Systems (NeurIPS '25).
-![teaser](/images/paper_nips25.png)
+![teaser](https://raw.githubusercontent.com/ruofanliu0129/Resume/74364d84ba149b66c8ef185fdd700ab759e613c3/images/paper_nips25.png)
 
 [PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles](https://doi.org/10.1145/3706598.3713465). In 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). Association for Computing Machinery, New York, NY, USA, Article 364, 1–16.
 ![teaser](https://raw.githubusercontent.com/ruofanliu0129/Resume/ff558da12cf430f54dfd41cb13142b8d894c6803/images/paper_chi25.png)
