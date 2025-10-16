@@ -40,7 +40,7 @@ Intern experience
   
 Skills
 ======
-* Python, Unity, R
+* Python, C#, R
  
 Awards & Fellowships
 ======
