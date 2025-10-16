@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Ruofan Liu"
 description              : &description "Ph.D. candidate in Computer Science, Institute of Science Tokyo"
 url                      : https://ruofanliu0129.github.io/Resume # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/Resume" # the subpath of your site, e.g. "/blog"
 repository               : "ruofanliu0129/Resume"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
