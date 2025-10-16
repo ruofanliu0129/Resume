@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, School of Computing, Institute of Science Tokyo (formerly Tokyo Institute of Technology), 2026 (expected)
+* Visiting Student Researcher in Computer Science, Electrical Engineering Department, Stanford University, now
+  * Supervisor: Prof. [Gordon Wetzstein](https://stanford.edu/~gordonwz/)
+    
+* Ph.D. in Computer Science, School of Computing, Institute of Science Tokyo (formerly Tokyo Institute of Technology), 2023 - 2026 (expected)
   * GPA：3.28/4.00
   * Supervisor: Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike)
   
-* M.E. in Computer Science, School of Computing, Tokyo Institute of Technology, 2023
+* M.E. in Computer Science, School of Computing, Tokyo Institute of Technology, 2021 - 2023
   * GPA：3.92/4.00
   * Supervisor: Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike)
   
-* B.E. in Computer Science and Technology, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, 2021
+* B.E. in Computer Science and Technology, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, 2017 - 2021
   * GPA：85.93/100
   * Supervisor: Prof. [Baoliang Lu](http://bcmi.sjtu.edu.cn/~blu/)
   
 Intern experience
 ======
-* 2022.03 - now: Research Assistant
+* 2022.03 - 2025.05: Research Assistant
   * [Musical Dynaformics LAB](https://medlab.mystrikingly.com/), Sony Computer Science Laboratories
   * Research on multimodal learning and musical skill acquisition.
   * Supervisor: Prof. [Shinichi Furuya](https://www.neuropiano.net/english)
@@ -39,9 +42,10 @@ Skills
 ======
 * Python, Unity, R
  
-Honors & Awards
+Awards & Fellowships
 ======
-* JST SPRING Fellowship, Japan Science and Technology Agency 2024.04
+* **Research Fellowship for Young Scientists ("Gakushin" DC2)**, JSPS, 2026.04
+* **JST SPRING Fellowship**, Japan Science and Technology Agency 2024.04
 * Tokyo Tech Advanced Human Fellowship, Tokyo Institute of Technology 2023.10
 * AIP Network Director Award, 6th JST CREST AIP Challenge Program 2022.07
 * Research Assistant Fellowship, Tokyo Institute of Technology 2022.06
