@@ -4,10 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<strong><u>Ruofan Liu</u></strong>, Yichen Peng, Takanori Oku, Chen-Chieh Liao, Erwin Wu, Shinichi Furuya, and Hideki Koike. [From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography](https://neurips.cc/virtual/2025/poster/116792). _In Advances in Neural Information Processing Systems (**NeurIPS '25**)_.
-![teaser](https://raw.githubusercontent.com/ruofanliu0129/Resume/74364d84ba149b66c8ef185fdd700ab759e613c3/images/paper_nips25.png)
+<strong><u>Ruofan Liu</u></strong>, Yichen Peng, Takanori Oku, Chen-Chieh Liao, Erwin Wu, Shinichi Furuya, and Hideki Koike. From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography. _In Advances in Neural Information Processing Systems (**NeurIPS '25**)_. [Link](https://neurips.cc/virtual/2025/poster/116792)
+<img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/74364d84ba149b66c8ef185fdd700ab759e613c3/images/paper_nips25.png" width="600">
 
-[PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles](https://doi.org/10.1145/3706598.3713465). In 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). Association for Computing Machinery, New York, NY, USA, Article 364, 1–16.
+<strong><u>Ruofan Liu</u></strong>, Yichen Peng, Takanori Oku, Chen-Chieh Liao, Erwin Wu, Shinichi Furuya, and Hideki Koike. PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles. _In 2025 CHI Conference on Human Factors in Computing Systems (**CHI '25**)_. Association for Computing Machinery, New York, NY, USA, Article 364, 1–16. [Link]((https://doi.org/10.1145/3706598.3713465))
 ![teaser](https://raw.githubusercontent.com/ruofanliu0129/Resume/ff558da12cf430f54dfd41cb13142b8d894c6803/images/paper_chi25.png)
 
 [PianoKeystroke-EMG: Piano Hand Muscle Electromyography Estimation from Easily Accessible Piano Keystroke](https://dl.acm.org/doi/10.1145/3681756.3697878). In SIGGRAPH Asia 2024 Posters (SA '24). Association for Computing Machinery, New York, NY, USA, Article 6, 1–2.
