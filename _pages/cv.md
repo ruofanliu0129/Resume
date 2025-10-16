@@ -14,7 +14,7 @@ Education
 * Visiting Student Researcher in Computer Science, Electrical Engineering Department, Stanford University, now
   * Supervisor: Prof. [Gordon Wetzstein](https://stanford.edu/~gordonwz/)
     
-* Ph.D. in Computer Science, School of Computing, Institute of Science Tokyo (formerly Tokyo Institute of Technology), 2023 - 2026 (expected)
+* Ph.D. in Computer Science, School of Computing, Institute of Science Tokyo, 2023 - 2026 (expected)
   * GPA：3.28/4.00
   * Supervisor: Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike)
   
