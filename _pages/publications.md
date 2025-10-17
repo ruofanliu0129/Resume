@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<strong><u>Ruofan Liu</u></strong>, Yichen Peng, Takanori Oku, Chen-Chieh Liao, Erwin Wu, Shinichi Furuya, and Hideki Koike. From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography. _In Advances in Neural Information Processing Systems (**NeurIPS '25**)_. [Link](https://neurips.cc/virtual/2025/poster/116792)
+<strong><u>Ruofan Liu</u></strong>, Yichen Peng, Takanori Oku, Chen-Chieh Liao, Erwin Wu, Shinichi Furuya, and Hideki Koike. From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography. _In Advances in Neural Information Processing Systems (**NeurIPS '25**)_. [Link](https://github.com/ruofanliu0129/PianoKPMNet)
 
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/74364d84ba149b66c8ef185fdd700ab759e613c3/images/paper_nips25.png" width="600">
