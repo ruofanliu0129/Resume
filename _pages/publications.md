@@ -34,20 +34,16 @@ Erwin Wu, Takashi Matsumoto, Chen-Chieh Liao, <strong><u>Ruofan Liu</u></strong>
 <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/efd8296982ea8559a506b09e1c1d78d692a2e58e/images/paper_mmsports23.png" width="600">
 </div>
 
-[PianoHandSync: An Alignment-based Hand Pose Discrepancy Visualization System for Piano Learning](https://dl.acm.org/doi/10.1145/3544549.3585705). In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (CHI EA '23). Association for Computing Machinery, New York, NY, USA, Article 228, 1–7.
+<strong><u>Ruofan Liu</u></strong>, Erwin Wu, Chen-Chieh Liao, Hayato Nishioka, Shinichi Furuya, and Hideki Koike. PianoHandSync: An Alignment-based Hand Pose Discrepancy Visualization System for Piano Learning. _In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (**CHI EA '23**)_. Association for Computing Machinery, New York, NY, USA, Article 228, 1–7. [Link](https://dl.acm.org/doi/10.1145/3544549.3585705)
 
 <div style="text-align: center;">
-<img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/ff558da12cf430f54dfd41cb13142b8d894c6803/images/paper_chi25.png" width="600">
+<img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/db8ee70b1a9ea807529fbc87d2b05a116880a345/images/paper_chi23.png" width="600">
 </div>
 
-[Synchronized Hand Difference Visualization for Piano Learning](https://dl.acm.org/doi/10.1145/3532719.3543196). In ACM SIGGRAPH 2022 Posters (SIGGRAPH '22). Association for Computing Machinery, New York, NY, USA, Article 4, 1–2.
+<strong><u>Ruofan Liu</u></strong>, Erwin Wu, Chen-Chieh Liao, Hayato Nishioka, Shinichi Furuya, and Hideki Koike. Synchronized Hand Difference Visualization for Piano Learning. _In ACM SIGGRAPH 2022 Posters (**SIGGRAPH '22**)_. Association for Computing Machinery, New York, NY, USA, Article 4, 1–2. [Link](https://dl.acm.org/doi/10.1145/3532719.3543196)
 
 <div style="text-align: center;">
-<img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/ff558da12cf430f54dfd41cb13142b8d894c6803/images/paper_chi25.png" width="600">
+<img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/6d0e85616c45afa431e3ece7e231d01125b2ef82/images/paper_sig22.png" width="600">
 </div>
 
-[Context-aware Risk Degree Prediction for Smartphone Zombies](https://dl.acm.org/doi/10.1145/3532719.3543197). In ACM SIGGRAPH 2022 Posters (SIGGRAPH '22). Association for Computing Machinery, New York, NY, USA, Article 48, 1–2.
-
-<div style="text-align: center;">
-<img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/ff558da12cf430f54dfd41cb13142b8d894c6803/images/paper_chi25.png" width="600">
-</div>
+Erwin Wu, Chen-Chieh Liao, <strong><u>Ruofan Liu</u></strong>, and Hideki Koike. Context-aware Risk Degree Prediction for Smartphone Zombies. _In ACM SIGGRAPH 2022 Posters (**SIGGRAPH '22**)_. Association for Computing Machinery, New York, NY, USA, Article 48, 1–2. [Link](https://dl.acm.org/doi/10.1145/3532719.3543197)
