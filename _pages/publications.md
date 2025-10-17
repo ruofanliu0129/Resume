@@ -47,3 +47,7 @@ Erwin Wu, Takashi Matsumoto, Chen-Chieh Liao, <strong><u>Ruofan Liu</u></strong>
 </div>
 
 Erwin Wu, Chen-Chieh Liao, <strong><u>Ruofan Liu</u></strong>, and Hideki Koike. Context-aware Risk Degree Prediction for Smartphone Zombies. _In ACM SIGGRAPH 2022 Posters (**SIGGRAPH '22**)_. Association for Computing Machinery, New York, NY, USA, Article 48, 1–2. [Link](https://dl.acm.org/doi/10.1145/3532719.3543197)
+
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/97d676d4f970286c629cd0eca7e0e11ea078590c/images/paper_sig22_2.png" width="600">
+</div>
