@@ -16,7 +16,7 @@ author_profile: true
 <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/ff558da12cf430f54dfd41cb13142b8d894c6803/images/paper_chi25.png" width="600">
 </div>
 
-<strong><u>Ruofan Liu</u></strong>, Yichen Peng, Takanori Oku, Erwin Wu, Shinichi Furuya, and Hideki Koike. PianoKeystroke-EMG: Piano Hand Muscle Electromyography Estimation from Easily Accessible Piano Keystroke. In SIGGRAPH Asia 2024 Posters (SA '24). Association for Computing Machinery, New York, NY, USA, Article 6, 1–2. [Link](https://dl.acm.org/doi/10.1145/3681756.3697878)
+<strong><u>Ruofan Liu</u></strong>, Yichen Peng, Takanori Oku, Erwin Wu, Shinichi Furuya, and Hideki Koike. PianoKeystroke-EMG: Piano Hand Muscle Electromyography Estimation from Easily Accessible Piano Keystroke. _In SIGGRAPH Asia 2024 Posters (**SA '24**)_. Association for Computing Machinery, New York, NY, USA, Article 6, 1–2. [Link](https://dl.acm.org/doi/10.1145/3681756.3697878)
 
 <div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/79324d049f3441e5a03a6602bf1e5e8fb961dd27/images/paper_sig24.png" width="600">
