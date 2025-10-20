@@ -86,9 +86,9 @@ author:
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "liu.r.ac@m.titech.ac.jp"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.co.jp/citations?user=NdWPSJAAAAAJ"
+  email            : "liu.r.55bd@m.isct.ac.jp"
+  researchgate     : "https://www.researchgate.net/profile/Ruofan-Liu-9"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/ruofan-liu-232755249/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9421-7259"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
