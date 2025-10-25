@@ -1,3 +1,19 @@
+<style>
+  .youtube-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding-bottom: 56.25%;
+  }
+  .youtube-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
 ---
 layout: archive
 title: "Projects"
