@@ -8,7 +8,21 @@ redirect_from:
 ---
 
 {% include base_path %}
-## PianoSyncAR: Enhancing Piano Learning through Visualizing Synchronized Hand Pose Discrepancies in Augmented Reality.
+### PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles
+{% raw %}
+<iframe width="448" height="252" 
+        src="https://www.youtube.com/embed/8gMQii4WQ9c"
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+{% endraw %}
+* Paper: [URL](https://dl.acm.org/doi/10.1145/3706598.3713465)
+
+
+
+### PianoSyncAR: Enhancing Piano Learning through Visualizing Synchronized Hand Pose Discrepancies in Augmented Reality
 {% raw %}
 <iframe width="448" height="252" 
         src="https://www.youtube.com/embed/8gMQii4WQ9c"
@@ -22,7 +36,7 @@ redirect_from:
 
 
 
-## PianoHandSync: An Alignment-based Hand Pose Discrepancy Visualization System for Piano Learning
+### PianoHandSync: An Alignment-based Hand Pose Discrepancy Visualization System for Piano Learning
 {% raw %}
 <iframe width="448" height="252" 
         src="https://www.youtube.com/embed/mHOltxdfiBg"
@@ -36,15 +50,15 @@ redirect_from:
 
 
 
-## Synchronized Hand Difference Visualization for Piano Learning
+### Synchronized Hand Difference Visualization for Piano Learning
 {% raw %}
-<iframe width="448" height="252" 
-        src="https://www.youtube.com/embed/NozInC5zxTM" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+  <iframe 
+      src="https://www.youtube.com/embed/NozInC5zxTM" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      frameborder="0" allowfullscreen>
+  </iframe>
+</div>
 {% endraw %}
 * Paper: [URL](https://dl.acm.org/doi/10.1145/3532719.3543196)
 
