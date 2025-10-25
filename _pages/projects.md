@@ -18,9 +18,9 @@ redirect_from:
           referrerpolicy="strict-origin-when-cross-origin"
           allowfullscreen>
   </iframe>
+  * Paper: [OpenReview](https://openreview.net/forum?id=ftZEltGArK)
 </div>
 {% endraw %}
-* Paper: [OpenReview](https://openreview.net/forum?id=ftZEltGArK)
 
 
 
