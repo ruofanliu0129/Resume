@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ### From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography
+* Paper: [OpenReview](https://openreview.net/forum?id=ftZEltGArK)
 {% raw %}
 <div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-bottom:0;">
   <iframe src="https://www.youtube.com/embed/3qjzDUzFH_Y?si=QwuXnU-VF-DcLum5"
@@ -20,8 +21,8 @@ redirect_from:
   </iframe>
 </div>
 {% endraw %}
-  * Paper: [OpenReview](https://openreview.net/forum?id=ftZEltGArK)
 ### PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles
+* Paper: [URL](https://dl.acm.org/doi/10.1145/3706598.3713465)
 {% raw %}
 <div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-bottom:0;">
   <iframe src="https://www.youtube.com/embed/9xju5pZiJz4?si=XMhrd9RT4w4snFiG"
@@ -33,11 +34,11 @@ redirect_from:
   </iframe>
 </div>
 {% endraw %}
-* Paper: [URL](https://dl.acm.org/doi/10.1145/3706598.3713465)
 
 
 
 ### PianoSyncAR: Enhancing Piano Learning through Visualizing Synchronized Hand Pose Discrepancies in Augmented Reality
+* Paper: [URL](https://ieeexplore.ieee.org/document/10316487)
 {% raw %}
 <div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-bottom:0;">
   <iframe src="https://www.youtube.com/embed/8gMQii4WQ9c?si=p7mlJtZtuRxbQOuN"
@@ -49,11 +50,11 @@ redirect_from:
   </iframe>
 </div>
 {% endraw %}
-* Paper: [URL](https://ieeexplore.ieee.org/document/10316487)
 
 
 
 ### PianoHandSync: An Alignment-based Hand Pose Discrepancy Visualization System for Piano Learning
+* Paper: [URL](https://dl.acm.org/doi/10.1145/3544549.3585705)
 {% raw %}
 <iframe width="448" height="252" 
         src="https://www.youtube.com/embed/mHOltxdfiBg"
@@ -63,11 +64,11 @@ redirect_from:
         allowfullscreen>
 </iframe>
 {% endraw %}
-* Paper: [URL](https://dl.acm.org/doi/10.1145/3544549.3585705)
 
 
 
 ### Synchronized Hand Difference Visualization for Piano Learning
+* Paper: [URL](https://dl.acm.org/doi/10.1145/3532719.3543196)
 {% raw %}
 <iframe width="448" height="252" 
         src="https://www.youtube.com/embed/NozInC5zxTM"
@@ -77,12 +78,12 @@ redirect_from:
         allowfullscreen>
 </iframe>
 {% endraw %}
-* Paper: [URL](https://dl.acm.org/doi/10.1145/3532719.3543196)
 
 
 
 ## Here are some indie games I made in my spare time:
 ### Kill the Shadow 杀死影子
+* Steam: [URL](https://store.steampowered.com/app/2660230/Kill_The_Shadow/)
 {% raw %}
 <div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-top: 20px;">
   <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=725727208&bvid=BV1mS4y1Y75U&cid=576869980&p=1"
@@ -91,7 +92,6 @@ redirect_from:
   </iframe>
 </div>
 {% endraw %}
-* Steam: [URL](https://store.steampowered.com/app/2660230/Kill_The_Shadow/)
 
 ### Guardian of the Glacier 冰川守望者
 {% raw %}
