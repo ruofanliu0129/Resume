@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 <style>
   .youtube-container {
     position: relative;
@@ -14,14 +23,6 @@
     height: 100%;
   }
 </style>
----
-layout: archive
-title: "Projects"
-permalink: /projects/
-author_profile: true
-redirect_from:
-  - /resume
----
 
 {% include base_path %}
 ### From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography
