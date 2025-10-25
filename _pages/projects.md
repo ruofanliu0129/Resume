@@ -44,7 +44,7 @@ redirect_from:
 ### Kill the Shadow 杀死影子
 * Steam: [URL](https://store.steampowered.com/app/2660230/Kill_The_Shadow/)
 {% raw %}
-<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-top: 20px;">
+<div style="position: relative; width: 100%; max-width: 1000px; margin: auto; padding-bottom: 56.25%; margin-top: 20px;">
   <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=725727208&bvid=BV1mS4y1Y75U&cid=576869980&p=1"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen>
@@ -54,7 +54,7 @@ redirect_from:
 
 ### Guardian of the Glacier 冰川守望者
 {% raw %}
-<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-top: 20px;">
+<div style="position: relative; width: 100%; max-width: 1000px; margin: auto; padding-bottom: 56.25%; margin-top: 20px;">
   <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=633030666&bvid=BV1yb4y127s2&cid=409427573&p=1"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen>
