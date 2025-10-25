@@ -45,7 +45,7 @@ redirect_from:
 * Steam: [URL](https://store.steampowered.com/app/2660230/Kill_The_Shadow/)
 {% raw %}
 <div style="position: relative; width: 100%; max-width: 1000px; margin: auto; padding-bottom: 56.25%; margin-top: 20px;">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=725727208&bvid=BV1mS4y1Y75U&cid=576869980&p=1"
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=811320415&bvid=BV1E34y1Y77E&cid=713650955&p=1"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen>
   </iframe>
