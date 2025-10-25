@@ -8,6 +8,20 @@ redirect_from:
 ---
 
 {% include base_path %}
+## PianoHandSync: An Alignment-based Hand Pose Discrepancy Visualization System for Piano Learning
+{% raw %}
+<iframe width="448" height="252" 
+        src="https://www.youtube.com/embed/mHOltxdfiBg"
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+{% endraw %}
+* Paper: [DOI](https://dl.acm.org/doi/10.1145/3544549.3585705)
+
+
+
 ## Synchronized Hand Difference Visualization for Piano Learning
 {% raw %}
 <iframe width="448" height="252" 
@@ -18,7 +32,7 @@ redirect_from:
         allowfullscreen>
 </iframe>
 {% endraw %}
-* [PAGE](https://dl.acm.org/doi/10.1145/3532719.3543196)
+* Paper: [DOI](https://dl.acm.org/doi/10.1145/3532719.3543196)
 
 
 
