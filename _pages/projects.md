@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ### From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography
 {% raw %}
-<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-top: 20px;">
+<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-bottom:0;">
   <iframe src="https://www.youtube.com/embed/3qjzDUzFH_Y?si=QwuXnU-VF-DcLum5"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0"
@@ -26,7 +26,7 @@ redirect_from:
 
 ### PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles
 {% raw %}
-<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-top: 20px;">
+<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-bottom:0;">
   <iframe src="https://www.youtube.com/embed/9xju5pZiJz4?si=XMhrd9RT4w4snFiG"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0"
