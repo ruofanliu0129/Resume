@@ -18,7 +18,7 @@ redirect_from:
         allowfullscreen>
 </iframe>
 {% endraw %}
-* Poster: [PDF](https://dl.acm.org/doi/pdf/10.1145/3532719.3543196)
+* [PAGE](https://dl.acm.org/doi/10.1145/3532719.3543196)
 
 
 
