@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ### From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography
 {% raw %}
-<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%;">
+<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-top: 20px;">
   <iframe src="https://www.youtube.com/embed/3qjzDUzFH_Y?si=QwuXnU-VF-DcLum5"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0"
