@@ -4,13 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-:sparkles: <strong><u>Ruofan Liu</u></strong>, Yichen Peng, Takanori Oku, Chen-Chieh Liao, Erwin Wu, Shinichi Furuya, and Hideki Koike. From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography. _In Advances in Neural Information Processing Systems (**NeurIPS '25**)_. [Link](https://github.com/ruofanliu0129/PianoKPMNet)
+&#9733 <strong><u>Ruofan Liu</u></strong>, Yichen Peng, Takanori Oku, Chen-Chieh Liao, Erwin Wu, Shinichi Furuya, and Hideki Koike. From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography. _In Advances in Neural Information Processing Systems (**NeurIPS '25**)_. [Link](https://github.com/ruofanliu0129/PianoKPMNet)
 
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/74364d84ba149b66c8ef185fdd700ab759e613c3/images/paper_nips25.png" width="600">
 </div>
 
-:sparkles: <strong><u>Ruofan Liu</u></strong>, Yichen Peng, Takanori Oku, Chen-Chieh Liao, Erwin Wu, Shinichi Furuya, and Hideki Koike. PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles. _In 2025 CHI Conference on Human Factors in Computing Systems (**CHI '25**)_. Association for Computing Machinery, New York, NY, USA, Article 364, 1–16. [Link](https://doi.org/10.1145/3706598.3713465)
+&#9733 <strong><u>Ruofan Liu</u></strong>, Yichen Peng, Takanori Oku, Chen-Chieh Liao, Erwin Wu, Shinichi Furuya, and Hideki Koike. PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles. _In 2025 CHI Conference on Human Factors in Computing Systems (**CHI '25**)_. Association for Computing Machinery, New York, NY, USA, Article 364, 1–16. [Link](https://doi.org/10.1145/3706598.3713465)
 
 <div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/ff558da12cf430f54dfd41cb13142b8d894c6803/images/paper_chi25.png" width="600">
@@ -22,7 +22,7 @@ author_profile: true
 <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/79324d049f3441e5a03a6602bf1e5e8fb961dd27/images/paper_sig24.png" width="600">
 </div>
 
-:sparkles: <strong><u>Ruofan Liu</u></strong>, Erwin Wu, Chen-Chieh Liao, Hayato Nishioka, Shinichi Furuya, and Hideki Koike. PianoSyncAR: Enhancing Piano Learning through Visualizing Synchronized Hand Pose Discrepancies in Augmented Reality. _In 2023 IEEE International Symposium on Mixed and Augmented Reality (**ISMAR '23**)_, Sydney, Australia, 2023, pp. 859-868. [Link](https://doi.org/10.1109/ISMAR59233.2023.00101)
+&#9733 <strong><u>Ruofan Liu</u></strong>, Erwin Wu, Chen-Chieh Liao, Hayato Nishioka, Shinichi Furuya, and Hideki Koike. PianoSyncAR: Enhancing Piano Learning through Visualizing Synchronized Hand Pose Discrepancies in Augmented Reality. _In 2023 IEEE International Symposium on Mixed and Augmented Reality (**ISMAR '23**)_, Sydney, Australia, 2023, pp. 859-868. [Link](https://doi.org/10.1109/ISMAR59233.2023.00101)
 
 <div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/ebe15bf180cd76e27287492a9934fbbbef1af8e9/images/paper_ismar23.png" width="600">
