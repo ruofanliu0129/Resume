@@ -42,7 +42,7 @@ redirect_from:
 
 ## Here are some indie games I made in my spare time:
 ### Kill the Shadow 杀死影子
-* Steam: [URL](https://store.steampowered.com/app/2660230/Kill_The_Shadow/)
+* Steam: [URL](https://store.steampowered.com/app/2660230/Kill_The_Shadow/) (Made by My Friends)
 {% raw %}
 <div style="position: relative; width: 100%; max-width: 1000px; margin: auto; padding-bottom: 56.25%; margin-top: 20px;">
   <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=811320415&bvid=BV1E34y1Y77E&cid=713650955&p=1"
