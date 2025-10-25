@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ## Synchronized Hand Difference Visualization for Piano Learning
 <iframe width="560" height="315" 
-        src="https://youtu.be/NozInC5zxTM" 
+        src="https://www.youtube.com/embed/NozInC5zxTM" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
