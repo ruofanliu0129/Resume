@@ -21,9 +21,6 @@ redirect_from:
   * Paper: [OpenReview](https://openreview.net/forum?id=ftZEltGArK)
 </div>
 {% endraw %}
-
-
-
 ### PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles
 {% raw %}
 <div style="position: relative; width: 100%; max-width: 600px; margin: auto; padding-bottom: 56.25%; margin-bottom:0;">
