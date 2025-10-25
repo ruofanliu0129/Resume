@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 ## Synchronized Hand Difference Visualization for Piano Learning
+<iframe width="560" height="315" 
+        src="https://youtu.be/NozInC5zxTM" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
 * Poster: [PDF](https://dl.acm.org/doi/pdf/10.1145/3532719.3543196) (English Version)
 * When learning a dexterous skill, such as playing the piano, people commonly watch videos of a teacher. However, this conventional way has some downsides, such as limited information to be retrieved and less intuitive instructions. We propose a virtual training system by visualizing differences between hands to provide intuitive feedback for skill acquisition. After synchronizing the data, two visual cues are proposed, including a hand-overlay manner and a two-keyboards visualization. A pilot study confirms the superiority of the proposed methods over conventional video-viewing.
 
