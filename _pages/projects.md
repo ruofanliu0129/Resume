@@ -66,13 +66,13 @@ redirect_from:
 
 ### Synchronized Hand Difference Visualization for Piano Learning
 {% raw %}
-<div style="position: relative; width: 100%; padding-bottom: 56.25%;">
-  <iframe 
-      src="https://www.youtube.com/embed/NozInC5zxTM" 
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-      frameborder="0" allowfullscreen>
-  </iframe>
-</div>
+<iframe width="448" height="252" 
+        src="[https://www.youtube.com/embed/mHOltxdfiBg](https://www.youtube.com/embed/NozInC5zxTM)"
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
 {% endraw %}
 * Paper: [URL](https://dl.acm.org/doi/10.1145/3532719.3543196)
 
