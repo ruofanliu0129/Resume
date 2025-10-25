@@ -7,23 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<style>
-  .youtube-container {
-    position: relative;
-    width: 100%;
-    max-width: 800px;
-    margin: 0 auto;
-    padding-bottom: 56.25%;
-  }
-  .youtube-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>
-
 {% include base_path %}
 ### From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography
 * Paper: [OpenReview](https://openreview.net/forum?id=ftZEltGArK)
@@ -52,15 +35,7 @@ redirect_from:
 ### PianoSyncAR: Enhancing Piano Learning through Visualizing Synchronized Hand Pose Discrepancies in Augmented Reality
 * Paper: [URL](https://ieeexplore.ieee.org/document/10316487)
 {% raw %}
-<div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; padding-bottom: 56.25%; margin-bottom:0;">
-  <iframe src="https://www.youtube.com/embed/8gMQii4WQ9c?si=p7mlJtZtuRxbQOuN"
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen>
-  </iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8gMQii4WQ9c?si=p7mlJtZtuRxbQOuN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {% endraw %}
 
 
