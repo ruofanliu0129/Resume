@@ -11,14 +11,8 @@ redirect_from:
 ### From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography
 * Paper: [OpenReview](https://openreview.net/forum?id=ftZEltGArK)
 {% raw %}
-<div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; padding-bottom: 56.25%;">
-  <iframe src="https://www.youtube.com/embed/3qjzDUzFH_Y?si=QwuXnU-VF-DcLum5"
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen>
-  </iframe>
+<div class="youtube-container">
+  <iframe src="https://www.youtube.com/embed/3qjzDUzFH_Y?si=QwuXnU-VF-DcLum5" frameborder="0" allowfullscreen></iframe>
 </div>
 {% endraw %}
 
