@@ -11,26 +11,14 @@ redirect_from:
 ### From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography
 * Paper: [OpenReview](https://openreview.net/forum?id=ftZEltGArK)
 {% raw %}
-<div class="youtube-container">
-  <iframe src="https://www.youtube.com/embed/3qjzDUzFH_Y?si=QwuXnU-VF-DcLum5" frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3qjzDUzFH_Y?si=kjlNmgoKQAiVvc7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {% endraw %}
 
 ### PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles
 * Paper: [URL](https://dl.acm.org/doi/10.1145/3706598.3713465)
 {% raw %}
-<div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; padding-bottom: 56.25%; margin-bottom:0;">
-  <iframe src="https://www.youtube.com/embed/9xju5pZiJz4?si=XMhrd9RT4w4snFiG"
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen>
-  </iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9xju5pZiJz4?si=O-rJIBwP0USNF0o7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {% endraw %}
-
-
 
 ### PianoSyncAR: Enhancing Piano Learning through Visualizing Synchronized Hand Pose Discrepancies in Augmented Reality
 * Paper: [URL](https://ieeexplore.ieee.org/document/10316487)
@@ -38,32 +26,16 @@ redirect_from:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8gMQii4WQ9c?si=p7mlJtZtuRxbQOuN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {% endraw %}
 
-
-
 ### PianoHandSync: An Alignment-based Hand Pose Discrepancy Visualization System for Piano Learning
 * Paper: [URL](https://dl.acm.org/doi/10.1145/3544549.3585705)
 {% raw %}
-<iframe width="448" height="252" 
-        src="https://www.youtube.com/embed/mHOltxdfiBg"
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHOltxdfiBg?si=LAfoAnKbk1XFNPZB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {% endraw %}
-
-
 
 ### Synchronized Hand Difference Visualization for Piano Learning
 * Paper: [URL](https://dl.acm.org/doi/10.1145/3532719.3543196)
 {% raw %}
-<iframe width="448" height="252" 
-        src="https://www.youtube.com/embed/NozInC5zxTM"
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NozInC5zxTM?si=IJmrctDvyLNtGQfG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {% endraw %}
 
 
