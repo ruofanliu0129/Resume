@@ -11,7 +11,7 @@ redirect_from:
 ### PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles
 {% raw %}
 <iframe width="448" height="252" 
-        src="https://www.youtube.com/embed/8gMQii4WQ9c"
+        src="https://www.youtube.com/embed/9xju5pZiJz4"
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
