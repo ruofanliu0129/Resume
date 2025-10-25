@@ -78,7 +78,25 @@ redirect_from:
 
 
 
-## Below are some interesting projects I worked on during my undergraduate years
+## Here are some indie games I made in my spare time:
+### Kill the Shadow 杀死影子
+{% raw %}
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=725727208&bvid=BV1mS4y1Y75U&cid=576869980&p=1" 
+  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
+</iframe>
+{% endraw %}
+* Steam: [URL](https://store.steampowered.com/app/2660230/Kill_The_Shadow/)
+
+### Guardian of the Glacier 冰川守望者
+{% raw %}
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=633030666&bvid=BV1yb4y127s2&cid=409427573&p=1" 
+  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
+</iframe>
+{% endraw %}
+
+
+
+## Below are some interesting projects I worked on during my undergraduate years:
 ### Virtual Sand Table Display Based on Somatosensory Interaction
 * Introduction: [PDF](https://ruofanliu0129.github.io/Resume/files/VirtualSandTable.pdf)
 * We propose to create a virtual sandbox and then perform a series of operations on it through somatosensory interaction, including the 2 change of perspective, multi-directional observation, and the movement of war chess units. The whole project is divided into three parts: creation of a sandbox model, rendering of the virtual scene, and definition of somatosensory interaction.
