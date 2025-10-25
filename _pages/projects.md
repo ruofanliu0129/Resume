@@ -10,8 +10,15 @@ redirect_from:
 {% include base_path %}
 ### From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography
 {% raw %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3qjzDUzFH_Y?si=QwuXnU-VF-DcLum5" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%;">
+  <iframe src="https://www.youtube.com/embed/3qjzDUzFH_Y?si=QwuXnU-VF-DcLum5"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen>
+  </iframe>
+</div>
 {% endraw %}
 * Paper: [OpenReview](https://openreview.net/forum?id=ftZEltGArK)
 
@@ -76,8 +83,12 @@ redirect_from:
 ## Here are some indie games I made in my spare time:
 ### Kill the Shadow 杀死影子
 {% raw %}
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=811320415&bvid=BV1E34y1Y77E&cid=713650955&p=1" 
-  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-top: 20px;">
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=725727208&bvid=BV1mS4y1Y75U&cid=576869980&p=1"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen>
+  </iframe>
+</div>
 {% endraw %}
 * Steam: [URL](https://store.steampowered.com/app/2660230/Kill_The_Shadow/)
 
