@@ -14,9 +14,9 @@ I also serve as a research assistant at [Sony Computer Science Laboratories](htt
 
 I obtained my M.E. in Computer Science at Tokyo Tech with Prof. [Hideki Koike](https://scholar.google.com/citations?hl=en&user=Ih8cJXQAAAAJ) and obtained my B.E. in Computer Science and Technology at Shanghai Jiao Tong University with Prof. [Baoliang Lu](https://scholar.google.com/citations?hl=en&user=709il6EAAAAJ). 
 
-My research lies at the intersection of <u>computer vision, artificial intelligence, and human-computer interaction</u>. Specifically, I explore how multimodal learning and video generation can be leveraged to better understand and enhance motor skill acquisition.
+My research lies at the intersection of <strong><u>computer vision, artificial intelligence, and human-computer interaction</u></strong>. Specifically, I explore how multimodal learning and video generation can be leveraged to better understand and enhance motor skill acquisition.
 
-My recent work focuses on using AI technologies to augment human and investigates the downstream applications in embodied intelligence and skill training. By integrating visual, motor, and physiological signals such as electromyography (EMG), I aim to develop <u>computational frameworks that bridge human perception, physical behavior, and interactive systems</u>. My broader goal is to design intelligent tutoring systems that can perceive, model, and support human expertise in a natural and interpretable way.
+My recent work focuses on using AI technologies to augment human and investigates the downstream applications in embodied intelligence and skill training. By integrating visual, motor, and physiological signals such as electromyography (EMG), I aim to develop <strong><u>computational frameworks that bridge human perception, physical behavior, and interactive systems</u></strong>. My broader goal is to design intelligent tutoring systems that can perceive, model, and support human expertise in a natural and interpretable way.
 
 Research Interests
 ------
