@@ -53,6 +53,7 @@ redirect_from:
 {% endraw %}
 
 ### Guardian of the Glacier 冰川守望者
+* Website: [URL](https://gameinstitute.qq.com/yxds-2021/works/101992) (In Chinese)
 {% raw %}
 <div style="position: relative; width: 100%; max-width: 1000px; margin: auto; padding-bottom: 56.25%; margin-top: 20px;">
   <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=633030666&bvid=BV1yb4y127s2&cid=409427573&p=1"
@@ -76,18 +77,18 @@ redirect_from:
 
 
 ### OCT Medical Images Enhancement
-* Introduction: [PDF](https://ruofanliu0129.github.io/Resume/files/OCT.pdf) (Chinese Version)
+* Introduction: [PDF](https://ruofanliu0129.github.io/Resume/files/OCT.pdf) (In Chinese)
 * We propose to use average hashing and perceptual hashing algorithms, and image segmentation technology to preprocess the image pairing of the OCT medical image set. Then we implement a deep learning network model suitable for OCT medical image denoising based on a convolutional neural network and some other networks. Our innovation lies in the different types of images in the same data set, which is to perform supervised denoising for data sets with good pairing, and unsupervised denoising for data sets with insufficient pairing. 
 
   
 ### Intelligent Car Control Based on Android Platform
-* Report: [PDF](https://ruofanliu0129.github.io/Resume/files/IntelligentCarControl.pdf) (Chinese Version)
+* Report: [PDF](https://ruofanliu0129.github.io/Resume/files/IntelligentCarControl.pdf) (In Chinese)
 * Video: [MP4](https://ruofanliu0129.github.io/Resume/files/IntelligentCarControl.mp4)
 * I implemented the compilation and programming of the single-chip program based on the Energia platform. Then I used Android Studio to develop a mobile phone APP, implementing intelligent car control driving based on Bluetooth communication. Finally, I implemented the functions of video return, key control, gesture recognition, gravity sensor, and voice control of an intelligent car driving.
 
 
 ### Predictive Classification of Medical Images of Diabetic Retinopathy
-* Introduction: [PDF](https://ruofanliu0129.github.io/Resume/files/DiabeticRetinopathyDetection.pdf) (Chinese Version)
+* Introduction: [PDF](https://ruofanliu0129.github.io/Resume/files/DiabeticRetinopathyDetection.pdf) (In Chinese)
 * To predict the extent of diabetic retinopathy, this project is mainly to learn about neural networks first, then reproduce previous people’s work. In detail, I established a neural network model based on the Keras CNN, and implemented the classification of diabetic retina 0-4 lesions through training and learning, then I built a neural network to realize the location and segmentation of the pathological area.
 
 
