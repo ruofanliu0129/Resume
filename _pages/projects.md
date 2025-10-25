@@ -11,7 +11,7 @@ redirect_from:
 ### From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography
 * Paper: [OpenReview](https://openreview.net/forum?id=ftZEltGArK)
 {% raw %}
-<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%;">
+<div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; padding-bottom: 56.25%;">
   <iframe src="https://www.youtube.com/embed/3qjzDUzFH_Y?si=QwuXnU-VF-DcLum5"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0"
@@ -21,10 +21,11 @@ redirect_from:
   </iframe>
 </div>
 {% endraw %}
+
 ### PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles
 * Paper: [URL](https://dl.acm.org/doi/10.1145/3706598.3713465)
 {% raw %}
-<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-bottom:0;">
+<div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; padding-bottom: 56.25%; margin-bottom:0;">
   <iframe src="https://www.youtube.com/embed/9xju5pZiJz4?si=XMhrd9RT4w4snFiG"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0"
@@ -40,7 +41,7 @@ redirect_from:
 ### PianoSyncAR: Enhancing Piano Learning through Visualizing Synchronized Hand Pose Discrepancies in Augmented Reality
 * Paper: [URL](https://ieeexplore.ieee.org/document/10316487)
 {% raw %}
-<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-bottom:0;">
+<div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; padding-bottom: 56.25%; margin-bottom:0;">
   <iframe src="https://www.youtube.com/embed/8gMQii4WQ9c?si=p7mlJtZtuRxbQOuN"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0"
