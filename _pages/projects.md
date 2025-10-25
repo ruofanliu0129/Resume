@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ### From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography
 {% raw %}
-<div style="position: relative; width: 100%; max-width: 600px; margin: auto; padding-bottom: 56.25%; margin-bottom:0;">
+<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-bottom:0;">
   <iframe src="https://www.youtube.com/embed/3qjzDUzFH_Y?si=QwuXnU-VF-DcLum5"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0"
@@ -18,12 +18,12 @@ redirect_from:
           referrerpolicy="strict-origin-when-cross-origin"
           allowfullscreen>
   </iframe>
-  * Paper: [OpenReview](https://openreview.net/forum?id=ftZEltGArK)
 </div>
 {% endraw %}
+  * Paper: [OpenReview](https://openreview.net/forum?id=ftZEltGArK)
 ### PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles
 {% raw %}
-<div style="position: relative; width: 100%; max-width: 600px; margin: auto; padding-bottom: 56.25%; margin-bottom:0;">
+<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-bottom:0;">
   <iframe src="https://www.youtube.com/embed/9xju5pZiJz4?si=XMhrd9RT4w4snFiG"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0"
@@ -39,7 +39,7 @@ redirect_from:
 
 ### PianoSyncAR: Enhancing Piano Learning through Visualizing Synchronized Hand Pose Discrepancies in Augmented Reality
 {% raw %}
-<div style="position: relative; width: 100%; max-width: 600px; margin: auto; padding-bottom: 56.25%; margin-bottom:0;">
+<div style="position: relative; width: 100%; max-width: 800px; margin: auto; padding-bottom: 56.25%; margin-bottom:0;">
   <iframe src="https://www.youtube.com/embed/8gMQii4WQ9c?si=p7mlJtZtuRxbQOuN"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0"
