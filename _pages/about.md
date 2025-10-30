@@ -1,6 +1,7 @@
 ---
+title: "RUOFAN LIU - About Me"
+description: "Self Introduction by RUOFAN LIU."
 permalink: /
-title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
