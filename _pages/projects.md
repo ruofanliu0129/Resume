@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ### From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography
-* Paper: [OpenReview](https://openreview.net/forum?id=ftZEltGArK)
+* Paper: [OpenReview](https://openreview.net/pdf/26eb537804fde5b11e5fcc37068d9f9fb6ad6fad.pdf)
 {% raw %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3qjzDUzFH_Y?si=kjlNmgoKQAiVvc7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {% endraw %}
@@ -41,8 +41,8 @@ redirect_from:
 
 
 ## Here are some indie games I made in my spare time:
-### Kill the Shadow 杀死影子
-* Steam: [URL](https://store.steampowered.com/app/2660230/Kill_The_Shadow/) (Made by My Friends)
+### Kill the Shadow (杀死影子)
+* Steam: [URL](https://store.steampowered.com/app/2660230/Kill_The_Shadow/) (Updated continuously by my friend)
 {% raw %}
 <div style="position: relative; width: 100%; max-width: 1000px; margin: auto; padding-bottom: 56.25%; margin-top: 20px;">
   <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=811320415&bvid=BV1E34y1Y77E&cid=713650955&p=1"
@@ -52,7 +52,7 @@ redirect_from:
 </div>
 {% endraw %}
 
-### Guardian of the Glacier 冰川守望者
+### Guardian of the Glacier (冰川守望者)
 * Website: [URL](https://gameinstitute.qq.com/yxds-2021/works/101992) (In Chinese)
 {% raw %}
 <div style="position: relative; width: 100%; max-width: 1000px; margin: auto; padding-bottom: 56.25%; margin-top: 20px;">
