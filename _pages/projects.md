@@ -15,25 +15,25 @@ redirect_from:
 {% endraw %}
 
 ### PiaMuscle: Improving Piano Skill Acquisition by Cost-effectively Estimating and Visualizing Activities of Miniature Hand Muscles
-* Paper: [URL](https://dl.acm.org/doi/10.1145/3706598.3713465)
+* Paper: [ACM DL](https://dl.acm.org/doi/10.1145/3706598.3713465)
 {% raw %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9xju5pZiJz4?si=O-rJIBwP0USNF0o7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {% endraw %}
 
 ### PianoSyncAR: Enhancing Piano Learning through Visualizing Synchronized Hand Pose Discrepancies in Augmented Reality
-* Paper: [URL](https://ieeexplore.ieee.org/document/10316487)
+* Paper: [IEEE Xplore](https://ieeexplore.ieee.org/document/10316487)
 {% raw %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8gMQii4WQ9c?si=p7mlJtZtuRxbQOuN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {% endraw %}
 
 ### PianoHandSync: An Alignment-based Hand Pose Discrepancy Visualization System for Piano Learning
-* Paper: [URL](https://dl.acm.org/doi/10.1145/3544549.3585705)
+* Paper: [ACM DL](https://dl.acm.org/doi/10.1145/3544549.3585705)
 {% raw %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mHOltxdfiBg?si=LAfoAnKbk1XFNPZB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {% endraw %}
 
 ### Synchronized Hand Difference Visualization for Piano Learning
-* Paper: [URL](https://dl.acm.org/doi/10.1145/3532719.3543196)
+* Paper: [ACM DL](https://dl.acm.org/doi/10.1145/3532719.3543196)
 {% raw %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NozInC5zxTM?si=IJmrctDvyLNtGQfG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {% endraw %}
