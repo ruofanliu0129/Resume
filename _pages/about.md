@@ -16,6 +16,11 @@ I obtained my M.E. in Computer Science at the Institute of Science Tokyo with Pr
 
 My research lies at the intersection of <strong>computer vision, multimodal generation for content creation, foundation models, and interactive systems</strong>. My ultimate research goal is to create a next-generation deep learning framework that incorporates cross-modal synthesis and large-scale learning methods. I believe that the critical path toward achieving this involves developing large-scale learning methods that are both more generalizable and explainable. To this end, I have been focusing on the following topics:
 
+<ul>
+  <li>This is the first item</li>
+  <li>This is the second item</li>
+</ul>
+
 My recent work focuses on using AI technologies to augment humans and investigates the downstream applications in embodied intelligence and skill training. By integrating visual, motor, and physiological signals such as electromyography (EMG), I aim to develop <strong><u>computational frameworks that bridge human perception, physical behavior, and interactive systems</u></strong>. My broader goal is to design intelligent tutoring systems that can perceive, model, and support human expertise in a natural and interpretable way.
 
 Research Interests
