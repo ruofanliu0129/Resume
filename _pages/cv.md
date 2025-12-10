@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Visiting Student Researcher in Computer Science, Electrical Engineering Department, Stanford University, now
-  * Supervisor: Prof. [Gordon Wetzstein](https://stanford.edu/~gordonwz/)
-  * Research area: Video Generation, Generative AI, Skill Acquisition
+* Visiting Researcher @ Stanford Computational Imaging Lab, Stanford University, now
+  * Advisor: Prof. [Gordon Wetzstein](https://stanford.edu/~gordonwz/)
+  * Generative AI · Large Foundation Model · Content Creation
     
-* Ph.D. in Computer Science, School of Computing, Institute of Science Tokyo, 2023 - 2026 (expected)
-  * Supervisor: Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike), GPA：3.28/4.00
+* Ph.D. @ Koike Laboratory, Institute of Science Tokyo, Oct. 2023 - Jul. 2026 (expected)
+  * Advisor: Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike)
   * Research area: Multimodal Learning, Mixed Reality, Human-Computer Interaction
   
 * M.E. in Computer Science, School of Computing, Tokyo Institute of Technology, 2021 - 2023
