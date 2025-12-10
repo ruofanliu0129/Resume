@@ -18,7 +18,7 @@ My research lies at the intersection of <strong>computer vision, multimodal gene
 
 <ul>
   <li><strong>Generative AI</strong></li>
-  <li><strong>Cross-modal Synthesis/Computation Sensing</strong>: Multimodal learning for pose-to-EMG estimation <a href="https://openreview.net/pdf/26eb537804fde5b11e5fcc37068d9f9fb6ad6fad.pdf" target="_blank">NeurIPS '25</a>, </li>
+  <li><strong>Cross-modal Synthesis/Computational Sensing</strong>: Multimodal learning for pose-to-EMG estimation (<a href="https://openreview.net/pdf/26eb537804fde5b11e5fcc37068d9f9fb6ad6fad.pdf" target="_blank">NeurIPS '25</a>), </li>
 </ul>
 
 My recent work focuses on using AI technologies to augment humans and investigates the downstream applications in embodied intelligence and skill training. By integrating visual, motor, and physiological signals such as electromyography (EMG), I aim to develop <strong><u>computational frameworks that bridge human perception, physical behavior, and interactive systems</u></strong>. My broader goal is to design intelligent tutoring systems that can perceive, model, and support human expertise in a natural and interpretable way.
