@@ -29,41 +29,39 @@ Education
   * Advisor: Prof. [Baoliang Lu](http://bcmi.sjtu.edu.cn/~blu/), GPA：86/100
   * Research Topics: Transfer learning · Brain-like Computing · Machine Intelligence
   
-Intern experience
+Internship
 ======
-* Mar. 2022.03 - Dec. 2025: Research Fellow @ Sony Computer Science Laboratories
+* Research Fellow @ Sony Computer Science Laboratories, Mar. 2022.03 - Dec. 2025
   * Advisor: Prof. [Shinichi Furuya](https://www.neuropiano.net/english)
-  * Research on multimodal learning and musical skill acquisition
+  * Implemented the cross-modal synthesis and prediction network to capture and understand musicians’ states.
+  * Created AI-based intelligent and interactive prototypes to help musical skill acquisition and transfer.
     
-* Sep. 2020 - Jun. 2021: Researcher Intern @ [SJTU BCMI LAB](https://bcmi.sjtu.edu.cn/), Shanghai Jiao Tong University
+* Researcher Intern @ [SJTU BCMI LAB](https://bcmi.sjtu.edu.cn/), Sep. 2020 - Jun. 2021
   * Advisor: Prof. Bao-liang Lu
-  * Research on cross-subject emotion recognition and brain-computer interface
+  * Build a large-scale Emotion EEG Dataset ([SEED](https://bcmi.sjtu.edu.cn/home/seed/)).
+  * Conducted research on transfer learning, cross-subject emotion recognition, and EEG-based computing.
   
 Skills
 ======
-* Python, C#, R
-* Unity3D, SteamVR, Blender, Marvelous Designer, LaTex
-
-Languages
-======
-* Mandarin, English, Japanese
+* Programming: Python (Pytorch, Tensorflow), C++, C#, JavaScript, HTML/CSS, MATLAB, R, Linux/UNIX
+* Technologies: HuggingFace, VS Code, Jupyter Notebook, Unity, Blender, Git/Github, Meta XR/Oculus, LaTex
+* Languages: Mandarin (Native), English (Fluent, TOEFL 110), Japanese (Intermediate, N2)
  
 Awards & Fellowships
 ======
-* **Research Fellowship for Young Scientists ("Gakushin" DC2)**, JSPS, 2026.04
-* **JST SPRING Fellowship**, Japan Science and Technology Agency, 2024.04
-* Tokyo Tech Advanced Human Fellowship, Tokyo Institute of Technology, 2023.10
-* AIP Network Director Award, 6th JST CREST AIP Challenge Program, 2022.07
-* Research Assistant Fellowship, Tokyo Institute of Technology, 2022.06
-* Silver Prize in Tencent University Game Creativity Competition, Tencent, 2021.11
-* Scholarships for International Students in Japan, JASSO, 2021.10
-* Academic Scholarship, Shanghai Jiao Tong University, 2020.09
-* Second Prize, China Society for Industrial and Applied Mathematics, 2019.09
+* **Research Fellowship for Young Scientists ("Gakushin" DC2)**, JSPS, Oct. 2025
+* JST SPRING Fellowship, Japan Science and Technology Agency, Apr. 2024
+* Tokyo Tech Advanced Human Fellowship, Tokyo Institute of Technology, Oct. 2023
+* AIP Network Director Award, 6th JST CREST AIP Challenge Program, Jul. 2022
+* Research Assistant Fellowship, Tokyo Institute of Technology, Jun. 2022
+* Silver Prize in Tencent University Game Creativity Competition, Tencent, Nov. 2021
+* Scholarships for International Students in Japan, JASSO, Oct. 2021
+* Academic Scholarship, Shanghai Jiao Tong University, Sep. 2020
+* Second Prize, China Society for Industrial and Applied Mathematics, Sep. 2019
   
-Service and leadership
+Academic Service & Leadership
 ======
 * Reviewers
-  * Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-  * CHI Conference on Human Factors in Computing Systems (CHI)
+  * CVPR, IMWUT, CHI
 * Minister of Culture, Liaison Center, Student Union of Shanghai Jiaotong University
   * Undertake school-level activities such as Starry Week Appraisal, Spark Class Chairperson Clash Forum, and Exchange Visits with other universities.
