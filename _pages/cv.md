@@ -38,7 +38,7 @@ Internship
     
 * Researcher Intern @ [SJTU BCMI LAB](https://bcmi.sjtu.edu.cn/), Sep. 2020 - Jun. 2021
   * Advisor: Prof. Bao-liang Lu
-  * Build a large-scale Emotion EEG Dataset ([SEED](https://bcmi.sjtu.edu.cn/home/seed/)).
+  * Contributed to building a large-scale Emotion EEG Dataset ([SEED](https://bcmi.sjtu.edu.cn/home/seed/)).
   * Conducted research on transfer learning, cross-subject emotion recognition, and EEG-based computing.
   
 Skills
