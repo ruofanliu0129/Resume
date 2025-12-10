@@ -14,16 +14,16 @@ Education
 * Visiting Researcher @ Stanford Computational Imaging Lab, Stanford University, now
   * Advisor: Prof. [Gordon Wetzstein](https://stanford.edu/~gordonwz/)
   * Research Topics: Generative AI · Large Foundation Model · Content Creation
-  * Fine-tuned the Wan2.2B video generation model with synthetic videos for instructional content creation using distributed GPUs (Stanford Marlowe).
-  * Leveraged visual-language inputs, LLM agents, and other foundation models to propose an interactive system.
-  * Generated and inferred 3D garment and fabric properties from a single image by fine-tuning a VLM.
+  * Fine-tuned the **Wan2.2B video generation model** with synthetic videos for instructional content creation using distributed GPUs (Stanford Marlowe).
+  * Leveraged visual-language inputs, LLM agents, and other **foundation models** to propose an interactive system.
+  * Generated and inferred 3D garment and fabric properties from a single image by fine-tuning a **VLM**.
     
 * Ph.D. and M.E. @ Computer Science, Institute of Science Tokyo, Oct. 2021 - Jul. 2026 (expected)
   * Advisor: Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike), GPA：3.92/4.00
   * Research Topics: Cross-modal Synthesis · Computational Sensing · Human-Computer Interaction
-  * Proposed the audio-to-motion framework to generate social context-aware motions based on a DiT.
-  * Developed cross-modal synthesis models for understanding muscle electromyography.
-  * Published 10+ works at top-tier conferences, including first-author publications at NeurIPS, SIGGRAPH, SA, CHI, and ISMAR.
+  * Proposed the **audio-to-motion** framework to generate social context-aware motions based on a DiT.
+  * Developed **cross-modal synthesis** models for understanding muscle electromyography.
+  * Published **10+ works at top-tier conferences**, including first-author publications at NeurIPS, SIGGRAPH, SA, CHI, and ISMAR.
   
 * B.E. @ Computer Science and Technology, Shanghai Jiao Tong University, Sep. 2017 - Jun. 2021
   * Advisor: Prof. [Baoliang Lu](http://bcmi.sjtu.edu.cn/~blu/), GPA：86/100
