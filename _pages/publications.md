@@ -4,7 +4,7 @@ title: "Publications @ International Conference"
 permalink: /publications/
 author_profile: true
 ---
-⭐ <strong><u>Ruofan Liu</u></strong>, Chen-Chieh Liao, Takuya Takahashi, Yichen Peng, Erwin Wu, and Hideki Koike. MuscleGolfAR: Embodied versus Detached Visualization for Motions and Inferred Muscle Activations in Augmented Reality. _IEEE Transactions on Visualization and Computer Graphics (**TVCG Journal, IEEE VR '26**)_. (Accepted)
+⭐ <strong><u>Ruofan Liu</u></strong>, Chen-Chieh Liao, Takuya Takahashi, Yichen Peng, Erwin Wu, and Hideki Koike. MuscleGolfAR: Embodied versus Detached Visualization for Motions and Inferred Muscle Activations in Augmented Reality. _IEEE Transactions on Visualization and Computer Graphics (**TVCG Journal, IEEE VR '26**)_. [Accepted]
 
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/20cb5d18a806dd8e83e90145f52f54d421d48a4b/images/paper_tvcg26.png" width="600">
