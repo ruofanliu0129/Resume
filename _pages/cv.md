@@ -31,7 +31,7 @@ Education
   
 Internship
 ======
-* Research Fellow @ Sony Computer Science Laboratories, Mar. 2022.03 - now
+* Research Fellow @ [Sony Computer Science Laboratories](https://www.sonycsl.co.jp/en/), Mar. 2022.03 - now
   * Advisor: Prof. [Shinichi Furuya](https://www.neuropiano.net/english)
   * Designed cross-modal generative models to capture, understand, and estimate musicians’ **biomechanical kinematics and dynamics** from multimodal performance data.
   * Created AI-based intelligent and interactive prototypes to help musical skill transfer in AR.
