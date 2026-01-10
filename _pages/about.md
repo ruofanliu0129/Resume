@@ -25,7 +25,7 @@ Beyond research, I enjoy go-karting, piano playing, snowboarding, indoor boulder
 
 Research Interests
 ------
-Generative AI, Multimodal Learning for Content Creation, Large Foundation Model, Cross-Modal Synthesis, Human-Computer Interaction
+Generative AI, Multimodal Learning, Large Foundation Model, Augmented Reality, Human-Computer Interaction
 
 For more info
 ------
