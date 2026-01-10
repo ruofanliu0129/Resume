@@ -7,7 +7,7 @@ author_profile: true
 ⭐ <strong><u>Ruofan Liu</u></strong>, Chen-Chieh Liao, Takuya Takahashi, Yichen Peng, Erwin Wu, and Hideki Koike. MuscleGolfAR: Embodied versus Detached Visualization for Motions and Inferred Muscle Activations in Augmented Reality. _IEEE Transactions on Visualization and Computer Graphics (**TVCG Journal, IEEE VR '26**)_. [Accepted](TBD)
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/74364d84ba149b66c8ef185fdd700ab759e613c3/images/paper_nips25.png" width="600">
+  <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/20cb5d18a806dd8e83e90145f52f54d421d48a4b/images/paper_tvcg26.png" width="600">
 </div>
 
 ⭐ <strong><u>Ruofan Liu</u></strong>, Yichen Peng, Takanori Oku, Chen-Chieh Liao, Erwin Wu, Shinichi Furuya, and Hideki Koike. From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography. _In Advances in Neural Information Processing Systems (**NeurIPS '25**)_. [Link](https://github.com/ruofanliu0129/PianoKPMNet)
