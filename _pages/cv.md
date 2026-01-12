@@ -43,8 +43,8 @@ Internship
   
 Skills
 ======
-* Programming: Python (Pytorch, Tensorflow), C++, C#, JavaScript, HTML/CSS, MATLAB, R, Linux/UNIX
-* Technologies: HuggingFace, VS Code, Jupyter Notebook, Unity, Blender, Git/Github, Meta XR/Oculus, LaTex
+* Programming: Python (Pytorch, Tensorflow), C#, C++, JavaScript, MATLAB, R, Shell/Bash, Linux/UNIX
+* Technologies: HuggingFace, VS Code, Jupyter Notebook, Unity, Blender, Git/Github, Meta XR/Oculus, LaTex, HTML/CSS
 * Languages: Mandarin (Native), English (Fluent, TOEFL 110), Japanese (Intermediate, N2)
  
 Awards & Fellowships
