@@ -28,7 +28,7 @@ author_profile: true
 <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/79324d049f3441e5a03a6602bf1e5e8fb961dd27/images/paper_sig24.png" width="600">
 </div>
 
-⭐ <strong><u>Ruofan Liu</u></strong>, Erwin Wu, Chen-Chieh Liao, Hayato Nishioka, Shinichi Furuya, and Hideki Koike. PianoSyncAR: Enhancing Piano Learning through Visualizing Synchronized Hand Pose Discrepancies in Augmented Reality. _In 2023 IEEE International Symposium on Mixed and Augmented Reality (**ISMAR '23**)_, Sydney, Australia, 2023, pp. 859-868. [[Link](https://doi.org/10.1109/ISMAR59233.2023.00101)]
+⭐ <strong><u>Ruofan Liu</u></strong>, Erwin Wu, Chen-Chieh Liao, Hayato Nishioka, Shinichi Furuya, and Hideki Koike. PianoSyncAR: Enhancing Piano Learning through Visualizing Synchronized Hand Pose Discrepancies in Augmented Reality. _In 2023 IEEE International Symposium on Mixed and Augmented Reality (**ISMAR '23**)_. Sydney, Australia, 2023, pp. 859-868. [[Link](https://doi.org/10.1109/ISMAR59233.2023.00101)]
 
 <div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/ebe15bf180cd76e27287492a9934fbbbef1af8e9/images/paper_ismar23.png" width="600">
