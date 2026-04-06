@@ -4,7 +4,7 @@ title: "Publications @ International Conference"
 permalink: /publications/
 author_profile: true
 ---
-⭐ <strong><u>Ruofan Liu</u></strong>, Chen-Chieh Liao, Takuya Takahashi, Yichen Peng, Erwin Wu, and Hideki Koike. MuscleGolfAR: Embodied versus Detached Visualization for Motions and Inferred Muscle Activations in Augmented Reality. _IEEE Transactions on Visualization and Computer Graphics (**TVCG Journal, IEEE VR '26**)_. [Accepted]
+⭐ <strong><u>Ruofan Liu</u></strong>, Chen-Chieh Liao, Takuya Takahashi, Yichen Peng, Erwin Wu, and Hideki Koike. MuscleGolfAR: Embodied versus Detached Visualization for Motions and Inferred Muscle Activations in Augmented Reality. _IEEE Transactions on Visualization and Computer Graphics (**TVCG Journal, IEEE VR '26**)_ vol. , no. 01, pp. 1-11, PrePrints 5555, doi: 10.1109/TVCG.2026.3680749. [[Link](https://csdl-downloads.ieeecomputer.org/trans/tg/5555/01/11474749.pdf?Expires=1775449067&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3RyYW5zL3RnLzU1NTUvMDEvMTE0NzQ3NDkucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc1NDQ5MDY3fX19XX0_&Signature=tcaSjFQkS-fCvEDhb5CXcdjVBBuCDCI9D7I6-ndsqbRHqzCAuL2UYhYRVNspP5COm6BaOvFXD6MtjruqAQkjrXMoSGxEdy75BjatMewp7ZYCLAntpyL-TjDSYbGTHv4GYkuTJgiZaH~TKQ0cT2cs0h1N6owfPOM9Uaux2Rku9DLmwJ2d0VJpCar9Q7v8SXZDI7FPTzrGpn8RzUk8Nt0y9DOVoYdK7hMdf7YcszFZ9iSAuDqPuR8UVY4~HUSoF8oFUzZBaoFiEX0RH9CQ8o3RraekNx23MI~-3Z62r-rDwr4aSK1PdJlNkTL84tCyzmJyy7cfQZhfxX7PFDTIRmgaPg__&Key-Pair-Id=K12PMWTCQBDMDT)]
 
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/20cb5d18a806dd8e83e90145f52f54d421d48a4b/images/paper_tvcg26.png" width="600">
@@ -22,7 +22,7 @@ author_profile: true
 <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/ff558da12cf430f54dfd41cb13142b8d894c6803/images/paper_chi25.png" width="600">
 </div>
 
-<strong><u>Ruofan Liu</u></strong>, Yichen Peng, Takanori Oku, Erwin Wu, Shinichi Furuya, and Hideki Koike. PianoKeystroke-EMG: Piano Hand Muscle Electromyography Estimation from Easily Accessible Piano Keystroke. _In SIGGRAPH Asia 2024 Posters (**SA '24**)_. Association for Computing Machinery, New York, NY, USA, Article 6, 1–2. [[Link](https://dl.acm.org/doi/10.1145/3681756.3697878)]
+<strong><u>Ruofan Liu</u></strong>, Yichen Peng, Takanori Oku, Erwin Wu, Shinichi Furuya, and Hideki Koike. PianoKeystroke-EMG: Piano Hand Muscle Electromyography Estimation from Easily Accessible Piano Keystroke. _In SIGGRAPH Asia 2024 Posters (**Siggraph Asia '24**)_. Association for Computing Machinery, New York, NY, USA, Article 6, 1–2. [[Link](https://dl.acm.org/doi/10.1145/3681756.3697878)]
 
 <div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/ruofanliu0129/Resume/79324d049f3441e5a03a6602bf1e5e8fb961dd27/images/paper_sig24.png" width="600">
