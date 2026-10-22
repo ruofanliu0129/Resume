@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. candidate (3rd year) at the [Deparment of Computer Science](https://educ.titech.ac.jp/cs/eng/), [Institute of Science Tokyo](https://www.isct.ac.jp/en), supervised by Prof. [Hideki Koike](https://scholar.google.com/citations?hl=en&user=Ih8cJXQAAAAJ), research fellow at [Sony Computer Science Laboratories](https://www.sonycsl.co.jp/), supervised by Prof. [Shinichi Furuya](https://scholar.google.com/citations?hl=en&user=IphDyJcAAAAJ), and previously visiting researcher at [Stanford Computational Imaging Lab](https://www.computationalimaging.org/), [Stanford University](https://www.stanford.edu/), supervised by Prof. [Gordon Wetzstein](https://scholar.google.com/citations?user=VOf45S0AAAAJ&hl=en).
+Postdoctoral Researcher (JSPS PD) at [Sony Computer Science Laboratories](https://www.sonycsl.co.jp/), supervised by Prof. [Shinichi Furuya](https://scholar.google.com/citations?hl=en&user=IphDyJcAAAAJ), previous Ph.D. at the [Deparment of Computer Science](https://educ.titech.ac.jp/cs/eng/), [Institute of Science Tokyo](https://www.isct.ac.jp/en), supervised by Prof. [Hideki Koike](https://scholar.google.com/citations?hl=en&user=Ih8cJXQAAAAJ), and Visiting Researcher at [Stanford Computational Imaging Lab](https://www.computationalimaging.org/), [Stanford University](https://www.stanford.edu/), supervised by Prof. [Gordon Wetzstein](https://scholar.google.com/citations?user=VOf45S0AAAAJ&hl=en).
 
 I obtained my M.E. in Computer Science at the Institute of Science Tokyo with Prof. Hideki Koike, and obtained my B.E. in Computer Science and Technology at Shanghai Jiao Tong University with Prof. [Baoliang Lu](https://scholar.google.com/citations?hl=en&user=709il6EAAAAJ). 
 
