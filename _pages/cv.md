@@ -9,21 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Visiting Researcher @ Stanford Computational Imaging Lab, Stanford University, now
-  * Advisor: Prof. [Gordon Wetzstein](https://stanford.edu/~gordonwz/)
-  * Research Topics: Generative AI · Large Foundation Model · Content Creation
-  * Fine-tuned the **Wan2.25B video generation model** with synthetic videos for instructional content creation and human motor forecasting, leveraging distributed GPUs (Stanford Marlowe).
-  * Integrated visual-language inputs, LLM agents, and other **foundation models** to propose an interactive system for sensorimotor understanding and embodied interaction.
-  * Generated and inferred 3D garment and fabric properties from a single image by fine-tuning a **VLM**.
-    
-* Ph.D. and M.E. @ Computer Science, Institute of Science Tokyo, Oct. 2021 - now
+Research
+======    
+* Postdoctoral Researcher (JSPS PD) @ [Sony Computer Science Laboratories](https://www.sonycsl.co.jp/en/), Oct. 2026 - now
+  * Advisor: Prof. [Shinichi Furuya](https://www.neuropiano.net/english)
+  * Research Topics: Multimodal Sensing · Exoskeleton · LLM/VLM
+  * actively exploring...
+
+* Ph.D. and M.E. @ Computer Science, Institute of Science Tokyo, Oct. 2021 - Sep. 2026
   * Advisor: Prof. [Hideki Koike](https://www.vogue.cs.titech.ac.jp/koike), GPA：3.92/4.00
   * Research Topics: Cross-modal Synthesis · Computational Sensing · Human-Computer Interaction
   * Developed **cross-modal synthesis** and multimodal learning models for muscle EMG inference and human states modeling.
   * Proposed the **audio-to-motion** framework to generate social context-aware motions based on a DiT.
   * Published **10+ works at top-tier conferences and journals**, including first-author publications at NeurIPS, TVCG (journal), SIGGRAPH, SA, CHI, IEEE VR, and ISMAR.
+ 
+* Visiting Researcher @ Stanford Computational Imaging Lab, Stanford University, Sep. 2025 - Feb. 2026
+  * Advisor: Prof. [Gordon Wetzstein](https://stanford.edu/~gordonwz/)
+  * Research Topics: Generative AI · Large Foundation Model · Content Creation
+  * Fine-tuned the **Wan2.25B video generation model** with synthetic videos for instructional content creation and human motor forecasting, leveraging distributed GPUs (Stanford Marlowe).
+  * Integrated visual-language inputs, LLM agents, and other **foundation models** to propose an interactive system for sensorimotor understanding and embodied interaction.
+  * Generated and inferred 3D garment and fabric properties from a single image by fine-tuning a **VLM**.
   
 * B.E. @ Computer Science and Technology, Shanghai Jiao Tong University, Sep. 2017 - Jun. 2021
   * Advisor: Prof. [Baoliang Lu](http://bcmi.sjtu.edu.cn/~blu/), GPA：86/100
@@ -31,7 +36,7 @@ Education
   
 Internship
 ======
-* Research Fellow @ [Sony Computer Science Laboratories](https://www.sonycsl.co.jp/en/), Mar. 2022.03 - now
+* Research Fellow @ [Sony Computer Science Laboratories](https://www.sonycsl.co.jp/en/), Mar. 2022 - Sep. 2026
   * Advisor: Prof. [Shinichi Furuya](https://www.neuropiano.net/english)
   * Designed cross-modal generative models to capture, understand, and estimate musicians’ **biomechanical kinematics and dynamics** from multimodal performance data.
   * Created AI-based intelligent and interactive prototypes to help musical skill transfer in AR.
@@ -44,7 +49,7 @@ Internship
 Skills
 ======
 * Programming: Python (Pytorch, Tensorflow), C#, C++, JavaScript, MATLAB, R, Shell/Bash, Linux/UNIX
-* Technologies: HuggingFace, VS Code, Jupyter Notebook, Unity, Blender, Git/Github, Meta XR/Oculus, LaTex, HTML/CSS
+* Technologies: HuggingFace, VS Code, Jupyter Notebook, Unity, Blender, Git/Github, Meta XR/Oculus, LaTeX, HTML/CSS
 * Languages: Mandarin (Native), English (Fluent, TOEFL 110), Japanese (Intermediate, N2)
  
 Awards & Fellowships
@@ -62,6 +67,6 @@ Awards & Fellowships
 Academic Service & Leadership
 ======
 * Reviewers
-  * CVPR, IMWUT, CHI, AH
+  * NeurIPS, CVPR, WACV, TVCG, CHI, IMWUT, AH
 * Minister of Culture, Liaison Center, Student Union of Shanghai Jiaotong University
   * Undertake school-level activities such as Starry Week Appraisal, Spark Class Chairperson Clash Forum, and Exchange Visits with other universities.
